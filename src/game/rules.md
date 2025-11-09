@@ -97,7 +97,7 @@ Personnage A : Le Voleur (Niveau 1)
 
 Personnage B : Le Guerrier (Niveau 1)
 - Il a 12 <span style="color: red">caractéristique</span> en Dextérité (<span style="color: red">Modificateur</span>Bonus +1).
-- Il ne maîtrise pas la <span style="color: hotpink">aptitude</span>  "Discrétion".
+- Il ne maîtrise pas l'<span style="color: hotpink">aptitude</span>  "Discrétion".
 - Son jet total sera : d20 + 1 (Dextérité) = d20 + 1
 
 Le Voleur a beaucoup plus de chances de réussir, car il est à la fois agile (Dextérité) et entraîné (Maîtrise).En résumé:
