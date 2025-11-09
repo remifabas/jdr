@@ -23,5 +23,5 @@ additional-css = [
     "./theme/catppuccin.css",
     "./theme/catppuccin-highlight.css",
 ]
-git-repository-url = "https://github.com/remifabas/thoughts"
+git-repository-url = "https://github.com/remifabas/jdr"
 git-repository-icon = "fa-github"
