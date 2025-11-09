@@ -1,3 +1,3 @@
 # Liste des personnages non joueurs
 
-- [Verda](./pnj/verda.md)
+- [Verda](pnj/verda.md)
