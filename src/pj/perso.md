@@ -2,7 +2,7 @@
 
 ## Patron pour créer son personnage
 
-- [Patron](./patron.md)
+- [Patron](./pj/patron.md)
 
 ## Liste des joueurs
 
