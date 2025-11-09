@@ -53,3 +53,4 @@ voir: [Patron](../pj/patron.md)
 - Relance des dès valides de l'étape 2, et on garde ceux qui ont la valeur > <span style="color: hotpink">Dégats</span>
 - Dès de <span style="color: hotpink">sauvegarde</span> de la cible moins la <span style="color: hotpink">Perforation</span>
 - Dégats appliqué aux point de vie : <span style="color: hotpink">Blessure</span>
+- Si vous subissez une blessure jet de bravoure pour savoir si vous fuyez

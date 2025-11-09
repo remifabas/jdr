@@ -60,7 +60,7 @@ Armure cuir
 |:------------------------|:--------|:----------|:---------|:---------|:-------------|:--------|:--------|:--------|
 |Slico                    |2''      |3d6        |4+        |5+        |0             |1        |+1 pour jets de touche pour la cible |Coup de sabre|
 |Boucant de Gusto                    |12''       |Touche Auto          |/          |/          |/            |/         |Tout les ennemis sont attiré de 1'' vers l'endroit d'impact choisi         |Gusto se faufile et attire les enemis en criant|
-|Saut                    |4''         |Touche Auto          |/          |/          |/            |/         |avance de 4'' maximum||
+|Encouragement                    |4''         |Touche Auto          |/          |/          |/            |/         |l'allié ciblé gagne +1'' de mouvement||
 
 ### Aptitudes combat
 
