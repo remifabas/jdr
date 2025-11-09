@@ -2,9 +2,9 @@
 
 # Le jeu
 
-- [Règles](./game/rules.md)
-- [Combats](./game/combat.md)
-- [Création personnage](./game/create_character.md)
+- [Règles](game/rules.md)
+- [Combats](game/combat.md)
+- [Création personnage](game/create_character.md)
 
 # Univers
 

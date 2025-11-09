@@ -2,11 +2,11 @@
 
 ## Patron pour créer son personnage
 
-- [Patron](./pj/patron.md)
+- [Patron](patron.md)
 
 ## Liste des joueurs
 
-- [Verre Fendu](./pj/verre-fendu.md)
-- [Krock](./pj/krock.md)
-- [Anais](./pj/anais.md)
-- [Thomas](./pj/thomas.md)
+- [Verre Fendu](verre-fendu.md)
+- [Krock](krock.md)
+- [Anais](anais.md)
+- [Thomas](thomas.md)
