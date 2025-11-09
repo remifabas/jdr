@@ -4,6 +4,8 @@ Il existe deux type de règles à suivre, celles valable pour l'ensemble de l'av
 
 Dans un premier temps, voyont les premieres:
 
+## Règles aventure
+
 ~~~admonish tips title="Caractéristiques" collapsible=true
 ## A - Les 6 Caractéristiques de Base
 
