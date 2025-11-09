@@ -9,6 +9,8 @@
 # Univers
 
 - [Mordrheim](./univers/mordrheim.md)
+- [Helper MJ](./univers/helper.md)
+
 
 # Personnage non joueur
 
