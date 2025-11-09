@@ -37,7 +37,6 @@ Ci-dessous la liste des actions possible:
 
 - déplacement, notée en pouces ''
 - attaque / sorts
-- sorts
 - se mettre à couvert
 - charge ( déplacement )
 - invente ton action !
