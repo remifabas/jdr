@@ -1,0 +1,27 @@
+[book]
+authors = ["Rémi Fabas"]
+language = "en"
+multilingual = false
+src = "src"
+title = "jdr-rules"
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "2.0.0"    # do not edit: managed by `mdbook-admonish install`
+
+[preprocessor.catppuccin]
+assets_version = "0.1.1" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
+
+[output.html.fold]
+enable = true
+
+[output.html]
+default-theme = "latte"
+preferred-dark-theme = "frappe"
+additional-css = [
+    "././mdbook-admonish.css",
+    "./theme/catppuccin.css",
+    "./theme/catppuccin-highlight.css",
+]
+git-repository-url = "https://github.com/remifabas/thoughts"
+git-repository-icon = "fa-github"
