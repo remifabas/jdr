@@ -312,16 +312,61 @@ Par exemple, &quot;Athlétisme&quot; est une compétence de Force.
 </ul>
 <h3 id="fiche-personnage-combats"><a class="header" href="#fiche-personnage-combats">Fiche personnage Combats</a></h3>
 <p>voir: <a href="game/../pj/patron.html">Patron</a></p>
-<h4 id="résoudre-une-action-dattaque"><a class="header" href="#résoudre-une-action-dattaque">Résoudre une action d'attaque</a></h4>
+<h4 id="attaque"><a class="header" href="#attaque">Attaque</a></h4>
+<p>Example:</p>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Armes/Sorts/Techniques</th><th style="text-align: left">Portée</th><th style="text-align: left">Attaques</th><th style="text-align: left">Effets / Description</th></tr></thead><tbody>
+<tr><td style="text-align: left">Arc</td><td style="text-align: left">8&quot;</td><td style="text-align: left">1&quot;</td><td style="text-align: left">Inflige 1 blessure, et diminue le mouvement de la cible de 2&quot;</td></tr>
+</tbody></table>
+</div>
 <ul>
-<li>on regarde si vous la <span style="color: hotpink">Portée</span> est atteignable</li>
-<li>lance le nombre de d6 d'<span style="color: hotpink">Attaques</span>. On garde les dès qui ont la valeur ou plus de <span style="color: hotpink">Toucher</span></li>
-<li>Relance des dès valides de l'étape 2, et on garde ceux qui ont la valeur &gt; <span style="color: hotpink">Dégats</span></li>
-<li>Dès de <span style="color: hotpink">sauvegarde</span> de la cible moins la <span style="color: hotpink">Perforation</span></li>
-<li>Dégats appliqué aux point de vie : <span style="color: hotpink">Blessure</span></li>
-<li>Si vous subissez une blessure jet de bravoure pour savoir si vous fuyez</li>
+<li>Portée: en pouces, distance à laquelle l'attaque / sort peut être lancer</li>
+<li>Attaques: nombre de d20 que l'attaque va utiliser</li>
+<li>Effets, beaucoup d'effet peuvent être imaginé
+<ul>
+<li>repousse la cible de 2'' pour un coup de bouclier</li>
+<li>terrorise la cible, prochain tour elle est incapable d'effectuer une autre action qu'une fuite</li>
 </ul>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="création-personnage"><a class="header" href="#création-personnage">Création personnage</a></h1>
+</li>
+</ul>
+<h5 id="résolution"><a class="header" href="#résolution">Résolution</a></h5>
+<ul>
+<li>A) Choix d'une action, on regarde si vous la <span style="color: hotpink">portée</span> est atteignable</li>
+<li>B) MJ fixe une difficultée, issue de vos <span style="color: hotpink">caracteristiques</span> et <span style="color: hotpink">abilitée</span> en comparaison de celle de la cibles</li>
+<li>C) Lance le nombre de d20 d'<span style="color: hotpink">attaques</span>. comparaison avec la difficultée</li>
+<li>D) On applique les <span style="color: hotpink">effets</span> si réussite</li>
+<li>E) Jet se sauvegarde pour savoir si blessure</li>
+<li>F) Si il y à une blessure, jet de bravoure, d20 doit être supérieur à votre bravoure.</li>
+</ul>
+<details id="admonition-example" class="admonition note">
+<summary class="admonition-title">
+<p>Example</p>
+<p><a class="admonition-anchor-link" href="game/combat.html#admonition-example"></a></p>
+</summary>
+<div>
+<h4 id="--mise-en-pratique-"><a class="header" href="#--mise-en-pratique-">- Mise en Pratique :</a></h4>
+<p>Imaginons un personnage qui tire à l'arc sur un autre</p>
+<p>Personnage A : Le Voleur (Niveau 1) Semi Elfe</p>
+<ul>
+<li>Il a 16 <span style="color: red">caractéristique</span> en Dextérité (<span style="color: red">Modificateur</span> +3).</li>
+<li>Il maîtrise l'<span style="color: hotpink">aptitude</span> &quot;Maitrise de projectiles&quot;. Son Bonus de <span style="color: hotpink">Maîtrise</span> est de +2.</li>
+<li>Son jet total sera : d20 + 3 (Dextérité) + 2 (Maîtrise) = d20 + 5</li>
+</ul>
+<p>Personnage B : Le Guerrier (Niveau 1)</p>
+<ul>
+<li>Il a 12 <span style="color: red">caractéristique</span> en Constirution (<span style="color: red">Modificateur</span>Bonus +1).</li>
+<li>Il ne maîtrise pas l'<span style="color: hotpink">aptitude</span>  &quot;Esquive&quot;.</li>
+<li>Il porte une armure de plaque (sauvegarde 3+)</li>
+<li>Son jet total sera : d20 + 1 (Dextérité) = d20 + 1 + <span style="color: hotpink">difficultée MJ</span></li>
+</ul>
+<p>Le personnage B est au milieu d'un champs, il n'a donc aucun endroit pour se cacher, mais il y à un petit peu de vent, difficulté 3</p>
+<p>attaquant: d20 + 3 (Dextérité) + 2 (Maîtrise) = d20 + 5
+cible: d20 + 1 + 3</p>
+<p>Si l'attaque est une réussite: jet de sauvegarde ( bloque les blessures mais pas les effets)
+Si l'attaque est une réussite 1 blessure et 2&quot; de moins pour la cible
+Si la sauvegarde est réussi, seulement 2&quot; de moins pour la cible
+Jet de bravoure de la cible</p>
+</div>
+</details><div style="break-before: page; page-break-before: always;"></div><h1 id="création-personnage"><a class="header" href="#création-personnage">Création personnage</a></h1>
 <h2 id="info"><a class="header" href="#info">Info</a></h2>
 <p>Race : Déterminera certaines de vos aptitudes<br />
 Classe : Déterminera certaines de vos aptitudes ainsi que sorts, armes ect...<br />
@@ -469,12 +514,13 @@ Bravoure: 8
 Blessures: 3
 </code></pre>
 <h2 id="objets"><a class="header" href="#objets">Objets</a></h2>
-<p>Slico : +1 pour jets de touche pour la cible
-Armure cuir</p>
-<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Armes/Sorts/Techniques</th><th style="text-align: left">Portée</th><th style="text-align: left">Attaques</th><th style="text-align: left">Toucher</th><th style="text-align: left">Blesser</th><th style="text-align: left">Perforation</th><th style="text-align: left">Dégats</th><th style="text-align: left">Effets</th><th style="text-align: left">Description</th></tr></thead><tbody>
-<tr><td style="text-align: left">Slico</td><td style="text-align: left">2''</td><td style="text-align: left">3d6</td><td style="text-align: left">4+</td><td style="text-align: left">5+</td><td style="text-align: left">0</td><td style="text-align: left">1</td><td style="text-align: left">+1 pour jets de touche pour la cible</td><td style="text-align: left">Coup de sabre</td></tr>
-<tr><td style="text-align: left">Boucant de Gusto</td><td style="text-align: left">12''</td><td style="text-align: left">Touche Auto</td><td style="text-align: left">/</td><td style="text-align: left">/</td><td style="text-align: left">/</td><td style="text-align: left">/</td><td style="text-align: left">Tout les ennemis sont attiré de 1'' vers l'endroit d'impact choisi</td><td style="text-align: left">Gusto se faufile et attire les enemis en criant</td></tr>
-<tr><td style="text-align: left">Encouragement</td><td style="text-align: left">4''</td><td style="text-align: left">Touche Auto</td><td style="text-align: left">/</td><td style="text-align: left">/</td><td style="text-align: left">/</td><td style="text-align: left">/</td><td style="text-align: left">l'allié ciblé gagne +1'' de mouvement</td><td style="text-align: left"></td></tr>
+<p>Slico: +1 pour jets de d'attaque pour la cible
+Armure cuir -&gt; sauvegarder 5+
+Anneau de Varda</p>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Armes/Sorts/Techniques</th><th style="text-align: left">Portée</th><th style="text-align: left">Attaques</th><th style="text-align: left">Effets / Description</th></tr></thead><tbody>
+<tr><td style="text-align: left">Slico</td><td style="text-align: left">2&quot;</td><td style="text-align: left">2&quot;</td><td style="text-align: left">Inflige 1 blessure, et diminue le mouvement de la cible de 2&quot;</td></tr>
+<tr><td style="text-align: left">Surprise de Gusto</td><td style="text-align: left">12&quot;</td><td style="text-align: left">1&quot;</td><td style="text-align: left">Tout les ennemis sont attiré de 1'' vers l'endroit d'impact choisi</td></tr>
+<tr><td style="text-align: left">Encouragement</td><td style="text-align: left">4&quot;</td><td style="text-align: left">1&quot;</td><td style="text-align: left">l'allié ciblé gagne +2&quot; de mouvement</td></tr>
 </tbody></table>
 </div>
 <h3 id="aptitudes-combat"><a class="header" href="#aptitudes-combat">Aptitudes combat</a></h3>
@@ -516,12 +562,15 @@ Niveau : 1</p>
 <p>COOL_STORY</p>
 <h2 id="caractéristiques-1"><a class="header" href="#caractéristiques-1">Caractéristiques</a></h2>
 <p>Vous avez 60 points érépartir ( ou on fera lors de la premiere partie un jet d20 pour chaque caractéristique)</p>
-<p>💪 <strong>Force (FOR)</strong>:         10<br />
-🤸 <strong>Dextérité (DEX)</strong>:     10<br />
-❤️ <strong>Constitution (CON)</strong>:  10<br />
-🧠 <strong>Intelligence (INT)</strong>:  10<br />
-👁️ <strong>Sagesse (SAG)</strong>:       10<br />
-✨ <strong>Charisme (CHA)</strong>:      10</p>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Caractéristique</th><th style="text-align: left">Valeur</th></tr></thead><tbody>
+<tr><td style="text-align: left">💪 <strong>Force (FOR)</strong>:</td><td style="text-align: left">10</td></tr>
+<tr><td style="text-align: left">🤸 <strong>Dextérité (DEX)</strong>:</td><td style="text-align: left">10</td></tr>
+<tr><td style="text-align: left">❤️ <strong>Constitution (CON)</strong>:</td><td style="text-align: left">10</td></tr>
+<tr><td style="text-align: left">🧠 <strong>Intelligence (INT)</strong>:</td><td style="text-align: left">10</td></tr>
+<tr><td style="text-align: left">👁️ <strong>Sagesse (SAG)</strong>:</td><td style="text-align: left">10</td></tr>
+<tr><td style="text-align: left">✨ <strong>Charisme (CHA)</strong>:</td><td style="text-align: left">10</td></tr>
+</tbody></table>
+</div>
 <h2 id="aptitudes-aventure-1"><a class="header" href="#aptitudes-aventure-1">Aptitudes aventure</a></h2>
 <p>à choisir, on pourra voir ensemble, essayer d'en inventer une</p>
 <ul>
@@ -558,9 +607,12 @@ Charge:  pousse votre adversaire ( si il est à coté d'un précipe il sera tué
 Crie de défi: force un adversaire ciblé à vous attaquer
 Sort d'entrave: mouvement de la ciblie diminué
 Jet de sable: +2 jet de touche de la cible</p>
-<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Armes/Sorts/Techniques</th><th style="text-align: left">Portée</th><th style="text-align: left">Attaques</th><th style="text-align: left">Toucher</th><th style="text-align: left">Blesser</th><th style="text-align: left">Perforation</th><th style="text-align: left">Dégats</th><th style="text-align: left">Effets</th><th style="text-align: left">Description</th></tr></thead><tbody>
-<tr><td style="text-align: left">arme - sort</td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td></tr>
-<tr><td style="text-align: left">nom</td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td><td style="text-align: left"></td></tr>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Armes/Sorts/Techniques</th><th style="text-align: left">Portée</th><th style="text-align: left">Attaques</th><th style="text-align: left">Effets / Description</th></tr></thead><tbody>
+<tr><td style="text-align: left">Arc</td><td style="text-align: left">8&quot;</td><td style="text-align: left">1&quot;</td><td style="text-align: left">Inflige 1 blessure, et diminue le mouvement de la cible de 2&quot;</td></tr>
+<tr><td style="text-align: left">Épée</td><td style="text-align: left">1&quot;</td><td style="text-align: left">2&quot;</td><td style="text-align: left">Inflige 1 blessure, et saignement</td></tr>
+<tr><td style="text-align: left">Boule de feu</td><td style="text-align: left">6&quot;</td><td style="text-align: left">1&quot;</td><td style="text-align: left">Inflige 1 blessure en zone de 2&quot;</td></tr>
+<tr><td style="text-align: left">Coup de bouclier</td><td style="text-align: left">4&quot;</td><td style="text-align: left">1&quot;</td><td style="text-align: left">charge au maximum de 4&quot; et repousse la cible de 2&quot;</td></tr>
+<tr><td style="text-align: left">Provocation</td><td style="text-align: left">10&quot;</td><td style="text-align: left">1&quot;</td><td style="text-align: left">La cible charge le lanceur de 3&quot;</td></tr>
 </tbody></table>
 </div>
 <h2 id="aptitudes-combat-1"><a class="header" href="#aptitudes-combat-1">Aptitudes combat</a></h2>

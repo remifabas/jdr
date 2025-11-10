@@ -19,12 +19,14 @@ COOL_STORY
 
 Vous avez 60 points érépartir ( ou on fera lors de la premiere partie un jet d20 pour chaque caractéristique)
 
-💪 **Force (FOR)**:         10  
-🤸 **Dextérité (DEX)**:     10  
-❤️ **Constitution (CON)**:  10  
-🧠 **Intelligence (INT)**:  10  
-👁️ **Sagesse (SAG)**:       10  
-✨ **Charisme (CHA)**:      10  
+| Caractéristique            | Valeur |
+|:---------------------------|:-------|
+| 💪 **Force (FOR)**:        | 10     |
+| 🤸 **Dextérité (DEX)**:    | 10     |
+| ❤️ **Constitution (CON)**: | 10     |
+| 🧠 **Intelligence (INT)**: | 10     |
+| 👁️ **Sagesse (SAG)**:     | 10     |
+| ✨ **Charisme (CHA)**:      | 10     |
 
 ## Aptitudes aventure
 
@@ -68,10 +70,14 @@ Crie de défi: force un adversaire ciblé à vous attaquer
 Sort d'entrave: mouvement de la ciblie diminué
 Jet de sable: +2 jet de touche de la cible
 
-| Armes/Sorts/Techniques | Portée | Attaques | Toucher | Blesser | Perforation | Dégats | Effets | Description |
-|:-----------------------|:-------|:---------|:--------|:--------|:------------|:-------|:-------|:------------|
-| arme - sort            |        |          |         |         |             |        |        |             |
-| nom                    |        |          |         |         |             |        |        |             |
+| Armes/Sorts/Techniques | Portée | Attaques | Effets / Description                                          |
+|:-----------------------|:-------|:---------|:--------------------------------------------------------------|
+| Arc                    | 8"     | 1"       | Inflige 1 blessure, et diminue le mouvement de la cible de 2" |
+| Épée                   | 1"     | 2"       | Inflige 1 blessure, et saignement                             |
+| Boule de feu           | 6"     | 1"       | Inflige 1 blessure en zone de 2"                              |
+| Coup de bouclier       | 4"     | 1"       | charge au maximum de 4" et repousse la cible de 2"            |
+| Provocation            | 10"    | 1"       | La cible charge le lanceur de 3"                              |
+
 
 ## Aptitudes combat
 

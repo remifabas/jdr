@@ -60,14 +60,16 @@ Blessures: 3
 
 ## Objets
 
-Slico : +1 pour jets de touche pour la cible
-Armure cuir
+Slico: +1 pour jets de d'attaque pour la cible
+Armure cuir -> sauvegarder 5+
+Anneau de Varda
 
-| Armes/Sorts/Techniques | Portée | Attaques    | Toucher | Blesser | Perforation | Dégats | Effets                                                             | Description                                     |
-|:-----------------------|:-------|:------------|:--------|:--------|:------------|:-------|:-------------------------------------------------------------------|:------------------------------------------------|
-| Slico                  | 2''    | 3d6         | 4+      | 5+      | 0           | 1      | +1 pour jets de touche pour la cible                               | Coup de sabre                                   |
-| Boucant de Gusto       | 12''   | Touche Auto | /       | /       | /           | /      | Tout les ennemis sont attiré de 1'' vers l'endroit d'impact choisi | Gusto se faufile et attire les enemis en criant |
-| Encouragement          | 4''    | Touche Auto | /       | /       | /           | /      | l'allié ciblé gagne +1'' de mouvement                              |                                                 |
+| Armes/Sorts/Techniques | Portée | Attaques | Effets / Description                                               |
+|:-----------------------|:-------|:---------|:-------------------------------------------------------------------|
+| Slico                  | 2"     | 2"       | Inflige 1 blessure, et diminue le mouvement de la cible de 2"      |
+| Surprise de Gusto      | 12"    | 1"       | Tout les ennemis sont attiré de 1'' vers l'endroit d'impact choisi |
+| Encouragement          | 4"     | 1"       | l'allié ciblé gagne +2" de mouvement                               |
+
 
 ### Aptitudes combat
 
