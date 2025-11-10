@@ -1,10 +1,8 @@
-# XXX
+# NOM
 
 VOUS AVEZ LE MARKDOWN A REMPLIR ICI
 
 https://raw.githubusercontent.com/remifabas/jdr/refs/heads/main/src/pj/patron.md
-
-## Nom
 
 YOUR NAME
 
@@ -70,10 +68,10 @@ Crie de défi: force un adversaire ciblé à vous attaquer
 Sort d'entrave: mouvement de la ciblie diminué
 Jet de sable: +2 jet de touche de la cible
 
-| Armes/Sorts/Techniques  | Portée  | Attaques  | Toucher  | Blesser  | Perforation  | Dégats  | Effets  | Description  |
-|:------------------------|:--------|:----------|:---------|:---------|:-------------|:--------|:--------|:--------|
-|arme - sort                    |      |        ||        |             |       | ||
-|nom                    |         |         |        |         |           |         |         ||
+| Armes/Sorts/Techniques | Portée | Attaques | Toucher | Blesser | Perforation | Dégats | Effets | Description |
+|:-----------------------|:-------|:---------|:--------|:--------|:------------|:-------|:-------|:------------|
+| arme - sort            |        |          |         |         |             |        |        |             |
+| nom                    |        |          |         |         |             |        |        |             |
 
 ## Aptitudes combat
 

@@ -25,5 +25,5 @@
   - [Patron](pj/patron.md)
   - [Lustina](pj/Lustina.md)
   - [Krock](pj/krock.md)
-  - [Anais](pj/anais.md)
+  - [Elara](pj/Elara.md)
   - [Soriel](pj/Soriel.md)

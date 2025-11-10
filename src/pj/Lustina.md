@@ -3,10 +3,10 @@
 
 🎭 Lustina “Verre-Fendu” Belphégora
 
-Race : Tieffeline (ou Diablesse, selon l’univers)
-Classe : Barde du Collège de l’Ivresse (classe personnalisée)
-Alignement : Chaotique Bon
-Niveau : 1
+Race : Tieffeline (ou Diablesse, selon l’univers)  
+Classe : Barde du Collège de l’Ivresse (classe personnalisée)  
+Alignement : Chaotique Bon  
+Niveau : 1  
  
 ## Description
 
