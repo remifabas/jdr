@@ -90,9 +90,8 @@ Le personnage B est au milieu d'un champs, il n'a donc aucun endroit pour se cac
 attaquant: d20 + 3 (Dextérité) + 2 (Maîtrise) = d20 + 5
 cible: d20 + 1 + 3
 
-Si l'attaque est une réussite: jet de sauvegarde ( bloque les blessures mais pas les effets)
-Si l'attaque est une réussite 1 blessure et 2" de moins pour la cible
-Si la sauvegarde est réussi, seulement 2" de moins pour la cible
-Jet de bravoure de la cible
-
+- Si l'attaque est une réussite: jet de sauvegarde ( bloque les blessures mais pas les effets)
+- Si l'attaque est une réussite 1 blessure et 2" de moins pour la cible
+- Si la sauvegarde est réussi, seulement 2" de moins pour la cible
+- Jet de bravoure de la cible
 ~~~
