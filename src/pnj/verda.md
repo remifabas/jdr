@@ -62,7 +62,7 @@ Blessures: 3
 
 Slico: +1 pour jets de d'attaque pour la cible
 Armure cuir -> sauvegarder 5+
-Anneau de Varda
+Anneau de Varda: une fois par combat elle augmente ses capacité d'esquive
 
 | Armes/Sorts/Techniques | Portée | Attaques | Effets / Description                                               |
 |:-----------------------|:-------|:---------|:-------------------------------------------------------------------|

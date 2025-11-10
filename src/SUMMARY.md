@@ -27,3 +27,8 @@
   - [Krock](pj/krock.md)
   - [Elara](pj/Elara.md)
   - [Soriel](pj/Soriel.md)
+
+# L'Histoire
+
+- [Acte 1](story/1_act.md)
+  - [Chapitre 1](story/1_chap.md)
