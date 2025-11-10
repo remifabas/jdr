@@ -22,7 +22,7 @@ Errant dans les ruines, mi-chasseuse de démons, mi-fugitif, elle cherche à bri
 “Le démon ne m’a pas volé mon âme.
 Il m’a juste appris à la partager.”
 
-<span style="color: hotpink">Quand j'aurais ajouter un bout sur l'univers et la quete faudra trouver une raison du pourquoi t'es là :)</span>
+<span style="color: hotpink">Quand tu aura lu la premiere partie et l'univers rajoute moi du contexte</span>
 
 ## Caractéristiques
 
@@ -83,13 +83,22 @@ Regain infernal   |0-8"  |1   |-   |1D6  |0    |1D6  |Soin / Recoil |Soriel sacr
 Jugement du Pacte   |6''rayon|—   |auto  |3+   |-2    |2D6  |Zone/Possession|Libère l’énergie du démon, inflige de lourds dégâts de zone. Soriel s’effondre, épuisée — ou partiellement possédée par le démon.
 (Pouvoir Ultime)
 
+
+ <span style="color: hotpink">Une petite idée à partir de ce que t'as (sorry j'ai changé un peu les règles)</span>  
+
+| Armes/Sorts/Techniques | Portée | Attaques | Effets / Description                                                                                                                  |
+|:-----------------------|:-------|:---------|:--------------------------------------------------------------------------------------------------------------------------------------|
+| **Litanie du Péché**   | 12"    | 1        | 1 Blessure, jet int à défnir via mj pour savoir si surcharge. si surcharge 1 Blessure pour Soriel                                     |
+| **Regard Ophidien**    | 6"     | 1        | d20, 1 à 10 Cible pétrifié pour 1 tour 11 à 20 désorienté pour 1 tour                                                                 |
+| **Voile de fumée**     | 0"     | 1        | zone d'effet de 3", toutes les entitées à l'interieur auront une esquive augmenter (MJ rajoutera difficulté de 4 si elles sont ciblé) |
+
 ## Aptitudes combat
 
-- Tir de Précision — +1 au toucher avec armes à feu ; ignore la moitié du couvert.
-- Surcharge Arcanique — Combine un tir et un effet magique (+1 dégât, mais risque de blessure sur 1 naturel).
-- Résistance à la Possession — Avantage contre la peur, le contrôle mental et les effets démoniaques.
+- Tir de Précision — +1 au toucher avec armes à feu ; ignore la moitié du couvert. <span style="color: hotpink">ok</span> 
+- Surcharge Arcanique — Combine un tir et un effet magique (+1 dégât, mais risque de blessure sur 1 naturel). <span style="color: hotpink">pas lvl 1</span> 
+- Résistance à la Possession — Avantage contre la peur, le contrôle mental et les effets démoniaques. <span style="color: hotpink">ok</span> 
 - Mouvement démoniaque —  Grâce à ses ailes et sa souplesse, Soriel peut se déplacer de 3'' supplémentaires une fois par tour.
- Permet d’éviter un obstacle ou de se repositionner rapidement.
+ Permet d’éviter un obstacle ou de se repositionner rapidement. <span style="color: hotpink">on va mixer avec le saut, genre saut démoniaque on va trouver qqch</span> 
 - Évasion chaotique — Une fois par combat, Soriel peut utiliser ses ailes et ses bras supplémentaires pour esquiver une attaque.
- Échec : elle tombe à terre mais évite totalement le dommage.
-- Flamme du pacte — Petit jet de feu démoniaque à portée 6''. Dégâts 1D6. Peut enflammer une cible ou allumer des objets inflammables à proximité
+ Échec : elle tombe à terre mais évite totalement le dommage. <span style="color: hotpink">trop fort tout de suite on garde pour plus tard</span> 
+- Flamme du pacte — Petit jet de feu démoniaque à portée 6''. Dégâts 1D6. Peut enflammer une cible ou allumer des objets inflammables à proximité <span style="color: hotpink">ça ira dans les attaques on verra comment on peu gerer un sort persistant sur la table</span>

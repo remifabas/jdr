@@ -52,17 +52,17 @@ Blessures: 4
 
 - **ARME : Couteau Double Lame**
 - **ARMURE : Armure Légère    
-- **Trousse de survie**    
-- **Selle et harnais pour Lyra**
+- **Trousse de survie**    <span style="color: hotpink">oui? elle fait quoi ?</span>
+- **Selle et harnais pour Lyra** <span style="color: hotpink">oui? elle fait quoi ?</span>
 
 
 ## Aptitudes combat
 
-| Armes/Sorts/Techniques  | Portée   | Attaques | Toucher | Blesser | Perforation | Dégats | Effets           | Description                                         |
-|:------------------------|:---------|:---------|:--------|:--------|:------------|:-------|:-----------------|:----------------------------------------------------|
-| **Couteau Double Lame** | Contact  | 2        | +3      | 3+      | 1           | 1      |                  | Attaque rapprochée rapide avec un jet de Dextérité. |
-| **Écho de Vitesse**     | Soi-même |          |         |         |             |        | Vitesse/Esquive  | Bonus temporaire au Mouvement et à la Sauvegarde.   |
-| **Écho de Stase**       | 6"       |          |         |         |             |        | Entrave/Contrôle | Immobilise ou ralentit une cible pour un tour.      |
+| Armes/Sorts/Techniques  | Portée | Attaques | Effets / Description           |
+|:------------------------|:-------|:---------|:-------------------------------|
+| **Couteau Double Lame** | 1"     | 2"       | Inflige 1 blessure             |
+| **Écho de Vitesse**     | 1"     | /        | +2" mouvement et +1 Sauvegarde |
+| **Écho de Stase***      | 6"     | /        | Retire 2 action de la cible    |
 
 
 ```
@@ -76,6 +76,7 @@ Blessures: 4
 
 La monture est si importante qu'elle devrait avoir des règles spéciales :
 
-- **Charge Cornue :** Si Lyra effectue une Charge, l'ennemi ciblé doit réussir un jet de Force ou être repoussé de 1'' et subir 1 dégât automatique.
-    
-- **Mouvement Silencieux :** Lyra est étonnamment silencieux pour sa taille. Si Elara effectue un test de Discrétion, elle peut utiliser la valeur de Sagesse d'Elara.
+| Armes/Sorts/Techniques     | Portée | Attaques | Effets / Description                            |
+|:---------------------------|:-------|:---------|:------------------------------------------------|
+| **Charge Cornue :**        | 1"     | 1"       | Inflige 1 blessure et repousse de 3"            |
+| **Mouvement Silencieux :** | 1"     | /        | Elara et Lyra deviennent inciblable pour 1 tour |

@@ -35,7 +35,7 @@ Chaleur démoniaque : impossible à détester, même en enfer.
 Rejetée des Enfers après avoir fêlé la coupe indestructible d’un prince-démon, Lustina erre désormais dans les tavernes du monde mortel, entre concours d’alcool, romances maudites et chants enflammés.
 Sa légende dit que le verre du prince résonne encore de son rire ivre à chaque toast. 🍷
 
-<span style="color: hotpink">Quand j'aurais ajouter un bout sur l'univers et la quete faudra trouver une raison du pourquoi t'es là :)</span>
+<span style="color: hotpink">Quand tu aura lu la premiere partie et l'univers rajoute moi du contexte</span>
 
 ## Caractéristiques
 
@@ -72,23 +72,23 @@ Sa légende dit que le verre du prince résonne encore de son rire ivre à chaqu
 
 <span style="color: hotpink">te faudra un descriptif de quelques objets en combat </span>
 
-| Armes/Sorts/Techniques  | Portée | Attaques | Toucher | Blesser | Perforation | Dégats | Effets                                                | Description |
-|:------------------------|:-------|:---------|:--------|:--------|:------------|:-------|:------------------------------------------------------|:------------|
-| Aura d’Ivresse (passif) | 4''    | /        | /       | /       | /           | /      | Toute créature +1 jet de touche mais -1 jet de blesse |             |
-| Baiser Ardent           | 4''    | 2        | 5+      | /       | /           | /      | +1 Vie(blessures)                                     |             |
+| Armes/Sorts/Techniques      | Portée | Attaques | Effets / Description                                                                        |
+|:----------------------------|:-------|:---------|:--------------------------------------------------------------------------------------------|
+| **Aura d’Ivresse (passif)** | /      | /        | Toute créature +2 score de succès jet de touche mais Lustina n'a pas de sauvegarde d'armure |
+| **Baiser Ardent**           | 4"     | 2"       | Régènere 1 blessure à la cible                                                              |
+| **agie du Tonneau**         | 6"     | 1"       | voir règles: Magie du Tonneau                                                               |
+| **Table d’Ivresse(passif)** | /      | /        | voir règles: Table d’Ivresse                                                                |
 
-## Aptitudes combat
-
-<span style="color: hotpink">sympa ! j'ai repris dans le tableau du haut ! On verra pour adapter pdt les combats et aventure, que tu utilse ces règles tout le temps </span>
+<span style="color: hotpink">une petite attaque en plus peut être ? ou un truc de support ?</span>
 
 - Magie du Tonneau (1/jour)
 → Peut transformer n’importe quel liquide en alcool fort. Effets RP ou mécaniques selon la situation :
 
-| Liquide    | Effet                                                 |
-|:-----------|:------------------------------------------------------|
-| Eau bénite | vin chaud (+1 au moral)                               |
-| Potion     | rhum (effet inchangé, mais goûté)                     |
-| Soupe      | bière épaisse (bonus de Constitution pour l’ambiance) |
+| Liquide    | Effet                                                        |
+|:-----------|:-------------------------------------------------------------|
+| Eau bénite | vin chaud (+1 attaque pour la prochaine attaque de la cible) |
+| Potion     | rhum (effet inchangé, mais goûté)                            |
+| Soupe      | bière épaisse (-1 score sauvegarde de la cible)              |
 
 - Poésie Incontrôlable (réaction)
 → Quand Lustina rate un jet, elle déclame un vers inspiré ; un allié proche gagne l’avantage sur son prochain jet.
