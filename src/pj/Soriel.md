@@ -22,14 +22,16 @@ Errant dans les ruines, mi-chasseuse de démons, mi-fugitif, elle cherche à bri
 “Le démon ne m’a pas volé mon âme.
 Il m’a juste appris à la partager.”
 
+<span style="color: hotpink">Quand j'aurais ajouter un bout sur l'univers et la quete faudra trouver une raison du pourquoi t'es là :)</span>
+
 ## Caractéristiques
 
-💪 *Force (FOR)*: 8
-🤸 *Dextérité (DEX)*: 14
-❤️ *Constitution (CON)*: 10
-🧠 *Intelligence (INT)*: 12
-👁️ *Sagesse (SAG)*: 8
-✨ *Charisme (CHA)*: 8
+💪 *Force (FOR)*: 8  
+🤸 *Dextérité (DEX)*: 14  
+❤️ *Constitution (CON)*: 10  
+🧠 *Intelligence (INT)*: 12  
+👁️ *Sagesse (SAG)*: 8  
+✨ *Charisme (CHA)*: 8  
 
 ## Aptitudes aventure
 
@@ -56,7 +58,7 @@ Blessures : 3 (constitution moyenne, régénération lente du démon)
 
 
  <span style="color: hotpink">y'en à bcp trop, faudrait genre 2 mode de tir pour ton pistolet, un truc de combat corps à corps et un sort de démon ? (on en ajoutera avec la monté en niveau)</span>  
- 
+
 | Armes/Sorts/Techniques|Portée  |Attaques | Toucher | Blesser | Perforation | Dégats | Effets  | Description                                    |
 |:----------------------|:-------|:---------|:----------|:----------|:--------------|:----------|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 Litanie du Péché  |12''  |1   |3+   |4+   |-1    |1D6  |Feu magique |Pistolet runique lié à son démon. Risque de surcharge (jet d’Int sur 4+ pour éviter 1 blessure).
@@ -89,24 +91,3 @@ Jugement du Pacte   |6''rayon|—   |auto  |3+   |-2    |2D6  |Zone/Possession|L
 - Évasion chaotique — Une fois par combat, Soriel peut utiliser ses ailes et ses bras supplémentaires pour esquiver une attaque.
  Échec : elle tombe à terre mais évite totalement le dommage.
 - Flamme du pacte — Petit jet de feu démoniaque à portée 6''. Dégâts 1D6. Peut enflammer une cible ou allumer des objets inflammables à proximité
-
-
-Armes/Sorts/Techniques,Portée,Attaques,Toucher,Blesser,Perforation,Dégats,Effets,Description
-Litanie du Péché,12'',1,3+,4+,-1,1D6,Feu magique,"Pistolet runique lié à son démon. Risque de surcharge (jet d’Int sur 4+ pour éviter 1 blessure)."
-Regard Ophidien,8'',1,4+,—,—,—,—,Paralysie-1tour,"Jet de Sagesse adverse pour résister ; sinon, la cible est pétrifiée ou désorientée."
-Surcharge Arcanique,12'',1,3+,3+,-2,1D6+1,Explosion,"Tire une balle imprégnée de malepierre. Si échec critique, subit 1 blessure."
-Balle maudite,12'',1,4+,4+,-1,1D6,Malédiction,"Tire une balle imprégnée de magie noire. La cible subit -1 à tous ses jets pendant 1 tour."
-Flamme infernale,6'',1,4+,3+,—,1D6,Brûlure,"Soriel canalise l’énergie du démon pour un petit jet de flammes. La cible subit 1D6 dégâts supplémentaires si enflammée."
-Serpents hurlants,8'',1,5+,4+,—,1D4,Effroi,"Les serpents de ses cheveux attaquent. La cible doit réussir un test de Sagesse ou fuir 1 tour."
-Tir en rafale,12'',2,4+,3+,-1,1D6 par tir,Multi,"Tire deux projectiles à la suite, mais +1 risque d’instabilité magique."
-Voile de fumée,0,—,—,—,—,—,—,Discrétion,"Soriel crée un nuage de fumée qui diminue la visibilité autour d’elle de 3''. Effet 1 tour."
-Poussée démoniaque,2'',1,4+,—,—,—,—,Repousse,"Utilise la force du démon pour projeter un ennemi à 2'' de distance. Peut le faire tomber s’il est au bord d’un précipice."
-Murmure trompeur,0-6'',—,—,—,—,—,—,Confusion,"Soriel murmure via le démon dans l’esprit de la cible : test de Sagesse pour résister. En cas d’échec, la cible attaque aléatoirement pendant 1 tour."
-Explosion instable,4'',1,4+,3+,-1,1D6,AoE,"Petit sort explosif : touche toutes les cibles adjacentes. Jet de Dextérité pour réduire les dégâts."
-Griffes démoniaques,Càc,1,4+,4+,—,1D6,Hémorragie,"Les bras surnuméraires griffent simultanément. Cible subit 1 dommage supplémentaire par tour jusqu’à guérison."
-Projection chaotique,6'',1,5+,3+,—,1D6,Désordre,"Sort instable qui fait bouger les objets autour de la cible. Peut provoquer chute d’objets ou désorientation."
-Tir de panique,3'',—,—,—,—,1D4,AoE,"Soriel tire sur un groupe d’ennemis proches sans viser précisément. Toutes les cibles dans une zone de 3'' doivent réussir un test de Dextérité ou subir 1D4 dégâts."
-Baume de fortune,Càc,1,-,1D3,0,1D3,Soin,"Soriel soigne une cible avec un mélange d’alcool enchanté et d’herbes. Peut calmer la panique (-1 aux jets de peur 1 tour)."
-Regain infernal,0-8'',1,-,1D6,0,1D6,Soin / Recoil,"Soriel sacrifie sa propre santé pour soigner un allié. Coût : 1D2 dégâts à Soriel."
-Étreinte corruptrice,0-8'',1,-,1D2,0,1D2,Soin / risque,"Soriel transfère de l’énergie démoniaque instable. Soigne 1D2 points mais test de CON de la cible : échec = -1 Mouvement 1 tour."
-Jugement du Pacte,6''rayon,—,auto,3+,-2,2D6,Zone/Possession,"Libère l’énergie du démon, inflige de lourds dégâts de zone. Soriel s’effondre, épuisée — ou partiellement possédée par le démon. (Pouvoir Ultime)"
