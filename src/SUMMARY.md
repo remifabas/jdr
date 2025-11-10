@@ -10,7 +10,7 @@
 # Univers
 
 - [Magtherai Isle](univers/Magtherai_Isle.md)
-  - [Mordrheim](univers/mordrheim.md)
+  - [Mordheim](univers/Mordheim.md)
 - [Helper MJ](univers/helper.md)
 
 
