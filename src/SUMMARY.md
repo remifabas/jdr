@@ -22,7 +22,7 @@
 
 - [Héros ??](pj/perso.md)
   - [Patron](pj/patron.md)
-  - [Verre Fendu](pj/verre-fendu.md)
+  - [Lustina](pj/Lustina.md)
   - [Krock](pj/krock.md)
   - [Anais](pj/anais.md)
   - [Soriel](pj/Soriel.md)

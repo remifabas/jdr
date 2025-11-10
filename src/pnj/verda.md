@@ -25,12 +25,14 @@ Elle est venue à Mordheim pour une seule raison : retrouver un groupe d'aventur
 
 ## Caractéristiques
 
-💪 **Force (FOR)**:         8  
-🤸 **Dextérité (DEX)**:     14  
-❤️ **Constitution (CON)**:  8  
-🧠 **Intelligence (INT)**:  12  
-👁️ **Sagesse (SAG)**:       8  
-✨ **Charisme (CHA)**:      10  
+| Caractéristique            | Valeur |
+|:---------------------------|:-------|
+| 💪 **Force (FOR)**:        | 8      |
+| 🤸 **Dextérité (DEX)**:    | 14     |
+| ❤️ **Constitution (CON)**: | 8      |
+| 🧠 **Intelligence (INT)**: | 12     |
+| 👁️ **Sagesse (SAG)**:     | 8      |
+| ✨ **Charisme (CHA)**:      | 10     |
 
 ## Aptitudes aventure
 
@@ -61,11 +63,11 @@ Blessures: 3
 Slico : +1 pour jets de touche pour la cible
 Armure cuir
 
-| Armes/Sorts/Techniques  | Portée  | Attaques  | Toucher  | Blesser  | Perforation  | Dégats  | Effets  | Description  |
-|:------------------------|:--------|:----------|:---------|:---------|:-------------|:--------|:--------|:--------|
-|Slico                    |2''      |3d6        |4+        |5+        |0             |1        |+1 pour jets de touche pour la cible |Coup de sabre|
-|Boucant de Gusto                    |12''       |Touche Auto          |/          |/          |/            |/         |Tout les ennemis sont attiré de 1'' vers l'endroit d'impact choisi         |Gusto se faufile et attire les enemis en criant|
-|Encouragement                    |4''         |Touche Auto          |/          |/          |/            |/         |l'allié ciblé gagne +1'' de mouvement||
+| Armes/Sorts/Techniques | Portée | Attaques    | Toucher | Blesser | Perforation | Dégats | Effets                                                             | Description                                     |
+|:-----------------------|:-------|:------------|:--------|:--------|:------------|:-------|:-------------------------------------------------------------------|:------------------------------------------------|
+| Slico                  | 2''    | 3d6         | 4+      | 5+      | 0           | 1      | +1 pour jets de touche pour la cible                               | Coup de sabre                                   |
+| Boucant de Gusto       | 12''   | Touche Auto | /       | /       | /           | /      | Tout les ennemis sont attiré de 1'' vers l'endroit d'impact choisi | Gusto se faufile et attire les enemis en criant |
+| Encouragement          | 4''    | Touche Auto | /       | /       | /           | /      | l'allié ciblé gagne +1'' de mouvement                              |                                                 |
 
 ### Aptitudes combat
 
@@ -83,6 +85,6 @@ Bravoure: 12
 Blessures: 5
 ```
 
-| Armes/Sorts/Techniques  | Portée  | Attaques  | Toucher  | Blesser  | Perforation  | Dégats  | Effets  | Description  |
-|:------------------------|:--------|:----------|:---------|:---------|:-------------|:--------|:--------|:--------|
-|Morsure                    |1'       |2d6        |4+        |5+        |0             |1        |Cible devient Lycan ||
+| Armes/Sorts/Techniques | Portée | Attaques | Toucher | Blesser | Perforation | Dégats | Effets              | Description |
+|:-----------------------|:-------|:---------|:--------|:--------|:------------|:-------|:--------------------|:------------|
+| Morsure                | 1'     | 2d6      | 4+      | 5+      | 0           | 1      | Cible devient Lycan |             |
