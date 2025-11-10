@@ -4,10 +4,10 @@
 
 Verda Varda Del Cielo
 
-Race : Homme Loup
-Classe : Guerrier
-Alignement : Loyal Bon
-Niveau : 1
+Race : Homme Loup  
+Classe : Guerrier  
+Alignement : Loyal Bon  
+Niveau : 1  
 
 ## Description
 

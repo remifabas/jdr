@@ -8,10 +8,10 @@ https://raw.githubusercontent.com/remifabas/jdr/refs/heads/main/src/pj/patron.md
 
 YOUR NAME
 
-Race : 
-Classe : 
-Alignement : 
-Niveau : 1
+Race :   
+Classe :   
+Alignement :   
+Niveau : 1  
 
 ## Description
 
