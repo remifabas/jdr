@@ -87,6 +87,6 @@ Bravoure: 12
 Blessures: 5
 ```
 
-| Armes/Sorts/Techniques | Portée | Attaques | Toucher | Blesser | Perforation | Dégats | Effets              | Description |
-|:-----------------------|:-------|:---------|:--------|:--------|:------------|:-------|:--------------------|:------------|
-| Morsure                | 1'     | 2d6      | 4+      | 5+      | 0           | 1      | Cible devient Lycan |             |
+| Armes/Sorts/Techniques | Portée | Attaques | Effets / Description                           |
+|:-----------------------|:-------|:---------|:-----------------------------------------------|
+| Morsure                | 1"     | 2"       | Cible devient Lycan pour le reste de la partie |
