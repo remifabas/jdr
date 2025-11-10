@@ -8,5 +8,5 @@
 
 - [Lustina](Lustina.md)
 - [Krock](krock.md)
-- [Anais](anais.md)
+- [Elara](Elara.md)
 - [Soriel](Soriel.md)
