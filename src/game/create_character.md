@@ -1,3 +1,8 @@
 # Création personnage
 
-voir: [Patron](../pj/patron.md)
+## Info
+
+Race : Déterminera certaines de vos aptitudes  
+Classe : Déterminera certaines de vos aptitudes ainsi que sorts, armes ect...  
+Alignement : voir [ici](alignement.md)  
+Niveau : 1    

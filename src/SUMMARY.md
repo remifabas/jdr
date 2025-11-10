@@ -5,6 +5,7 @@
 - [Règles](game/rules.md)
 - [Combats](game/combat.md)
 - [Création personnage](game/create_character.md)
+- [Alignement](game/alignement.md)
 
 # Univers
 
@@ -24,4 +25,4 @@
   - [Verre Fendu](pj/verre-fendu.md)
   - [Krock](pj/krock.md)
   - [Anais](pj/anais.md)
-  - [Thomas](pj/thomas.md)
+  - [Soriel](pj/Soriel.md)
