@@ -26,12 +26,14 @@ Il m’a juste appris à la partager.”
 
 ## Caractéristiques
 
-💪 *Force (FOR)*: 8  
-🤸 *Dextérité (DEX)*: 14  
-❤️ *Constitution (CON)*: 10  
-🧠 *Intelligence (INT)*: 12  
-👁️ *Sagesse (SAG)*: 8  
-✨ *Charisme (CHA)*: 8  
+| Caractéristique          | Valeur |
+|:-------------------------|:-------|
+| 💪 *Force (FOR)*:        | 8      |
+| 🤸 *Dextérité (DEX)*:    | 14     |
+| ❤️ *Constitution (CON)*: | 10     |
+| 🧠 *Intelligence (INT)*: | 12     |
+| 👁️ *Sagesse (SAG)*:     | 8      |
+| ✨ *Charisme (CHA)*:      | 8      |
 
 ## Aptitudes aventure
 
