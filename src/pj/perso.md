@@ -6,7 +6,7 @@
 
 ## Liste des joueurs
 
-- [Verre Fendu](verre-fendu.md)
+- [Lustina](Lustina.md)
 - [Krock](krock.md)
 - [Anais](anais.md)
-- [Thomas](thomas.md)
+- [Soriel](Soriel.md)
