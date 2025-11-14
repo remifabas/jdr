@@ -68,7 +68,7 @@ Anneau de Varda: une fois par combat elle augmente ses capacité d'esquive
 |:-----------------------|:-------|:---------|:-------------------------------------------------------------------|
 | Slico                  | 2"     | 2"       | Inflige 1 blessure, et diminue le mouvement de la cible de 2"      |
 | Surprise de Gusto      | 12"    | 1"       | Tout les ennemis sont attiré de 1'' vers l'endroit d'impact choisi |
-| Encouragement          | 4"     | 1"       | l'allié ciblé gagne +2" de mouvement                               |
+| Encouragement          | 4"     | 1"       | l'allié ciblé gagne +1" Action                                     |
 
 
 ### Aptitudes combat

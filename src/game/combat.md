@@ -35,7 +35,7 @@ Vous pouvez effectuer 3 Actions lors de votre tour
 
 Ci-dessous la liste des actions possible:
 
-- déplacement, notée en pouces ''
+- déplacement, notée en pouces "
 - attaque / sorts
 - se mettre à couvert
 - charge ( déplacement )
