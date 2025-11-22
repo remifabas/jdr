@@ -43,10 +43,8 @@ descriptif d'une regle
 ## Fiche combat / Profil
 
 ```
-Mouvement: 6'' (HUMAIN 6', nain 5'')
-Sauvegarde: 5+ VOIR ARMURE
-Bravoure: 8   -> CHOISI EN FONCTION DE VOTRE Charisme / Sagesse
-Blessures: 3  -> CHOISI EN FONCTION DE VOTRE Constitution
+Mouvement: 6" (Humanoide 6", nain 5", Gnome 4", Monture 8" )
+Sauvegarde: 5+ VOIR ARMURE # TODO  à modif
 ```
 
 ## Objets

@@ -29,4 +29,5 @@
 # L'Histoire
 
 - [Acte 1](story/1_act.md)
-  - [Chapitre 1](story/1_chap.md)
+  - [Chapitre 1](story/act1/1_chap.md)
+  - [Chapitre 2](story/act1/2_chap.md)
