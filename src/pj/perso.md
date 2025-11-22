@@ -1,9 +1,5 @@
 # Personnage Joueurs
 
-## Patron pour créer son personnage
-
-- [Patron](patron.md)
-
 ## Liste des joueurs
 
 - [Lustina](Lustina.md)

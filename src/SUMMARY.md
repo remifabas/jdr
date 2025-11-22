@@ -5,26 +5,23 @@
 - [Règles](game/rules.md)
 - [Combats](game/combat.md)
 - [Création personnage](game/create_character.md)
-- [Alignement](game/alignement.md)
+  - [Patron](pj/patron.md)
+  - [Alignement](game/alignement.md)
 
 # Univers
 
 - [Magtherai Isle](univers/Magtherai_Isle.md)
   - [Mordheim](univers/Mordheim.md)
 
-# Personnage non joueur
+# Personnage
 
-- [Liste](pnj/perso.md)
-  - [Verda](pnj/verda.md)
-
-# Personnage joueurs
-
-- [Héros ??](pj/perso.md)
-  - [Patron](pj/patron.md)
+- [Héros](pj/perso.md)
   - [Lustina](pj/Lustina.md)
   - [Krock](pj/krock.md)
   - [Elara](pj/Elara.md)
   - [Soriel](pj/Soriel.md)
+- [Personnage non joueurs](pnj/perso.md)
+  - [Verda](pnj/verda.md)
 
 # L'Histoire
 
