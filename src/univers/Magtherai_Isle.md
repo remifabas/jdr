@@ -4,7 +4,7 @@
 
 Bienvenue à Magtherai, la Péninsule des Échos Brises
 
-Bienvenue à Magtherai. Ce n'est plus seulement une presqu'île ; c'est une poudrière où les anciennes gloires s'effondrent et où de nouveaux cauchemars tombent du ciel. C'est une terre de rois déchus, de nains obstinés et de marchands qui dansent sur des tombes, un lieu au bord du gouffre.
+Ce n'est plus seulement une presqu'île ; c'est une poudrière où les anciennes gloires s'effondrent et où de nouveaux cauchemars tombent du ciel. C'est une terre de rois déchus, de nains obstinés et de marchands qui dansent sur des tombes, un lieu au bord du gouffre.
 
 ## Au Nord : Le Trône Fébrile d'Embermoon
 
