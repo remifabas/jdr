@@ -1,1 +1,91 @@
-# Krock
+# NOM
+
+Krock
+
+Race : Nain
+Classe : Moine — Voie du Diamant Éveillé
+Alignement : Vrai neutre
+Niveau : 1
+
+## Description
+
+Krock est un nain moine errant au style samuraï, vêtu d’une armure en cuir épais, les poils et les yeux d’un bleu minéral pâle.
+Il manie un katana démesuré qu’il porte dans le dos, plus grand que lui, symbole d’un passé de violence et d’un présent de discipline.
+
+Né dans les forges des profondeurs de Cel, Krock fut émerveillé dès l’enfance par l’éclat des gemmes et le chant du métal précieux. Bercé par les légendes sur le minerai des dieux, sa passion devint une obsession qui le dévora jusqu'à ses 120 ans. Il officiait alors en tant que forgeron et toute sortes de gemmes et de métaux lui passait entre les mains. Malheureusement rien n'égalait les mythes et légendes qui courraient dans les mines.
+
+C'est alors qu'il rencontra son vieux Maître, Hakarō, un moine humain aveugle venu faire aiguiser des sabres usés par le temps et la rouille. Krock se moqua du vieil homme et de ses armes en lui proposant des épées neuves et dignes du minerai des dieux (profitant de la cécité du vieillard pour les lui proposer au double du prix réel). Le moine posa alors sa main sur le plus vieux sabre qu'il avait amené et en un battement de cil l'épée tendue fièrement par Krock se brisa nette entre ses mains d'une coupure fumante et rougeoyante.
+Le maître qui avait ressenti l'obstination du forgeron lui avait fait comprendre la futilité de ses efforts face à une volonté et un esprit débarassé de tout désir. A la recherche d'un apprenti il lui proposa alors de lui enseigner l’art du sabre comme chemin spirituel s'il voulait vraiment atteindre son but et approcher la perfection des dieux. Subjugué par cette rencontre Krock abandonna alors son foyer pour suivre son maître dans le dur chemin qu'il lui proposait.
+Hakarō avait volontairement abandonné sa vue pour s'adonner à son art, Krock devait donc lui aussi choisir d'abandonner une part de lui-même. Il fit alors vœu de pauvreté devant Dornir le Pur: renoncer à tout bien matériel pour atteindre l’illumination.
+
+Son serment fut accepté… mais mis à l’épreuve.
+Chaque fois qu’il cède à l’appel de la richesse, la montagne elle-même le punit : le diamant pousse sur sa chair, embellissant son corps tout en l’emprisonnant dans la pierre.
+S’il laissait son corps se couvrir entièrement, il deviendrait un golem de diamant, éternel gardien des trésors qu’il n’aurait jamais possédés.
+
+Après un entrainement long et éprouvant auprès du sévère Hakarō, Krock erre, se battant pour purifier son âme et atteindre son but ultime tout en luttant physiquement contre l’or et autres richesses qui le fascinent.
+Chaque don ou renoncement sincère fissure la malédiction.
+Chaque trésor convoité l’alourdit un peu plus vers la perte de soi.
+
+## Caractéristiques
+
+Vous avez 60 points érépartir ( ou on fera lors de la premiere partie un jet d20 pour chaque caractéristique)
+
+| Caractéristique            | Valeur |
+| :------------------------- | :----- |
+| 💪 **Force (FOR)**:        | 14     |
+| 🤸 **Dextérité (DEX)**:    | 10     |
+| ❤️ **Constitution (CON)**: | 12     |
+| 🧠 **Intelligence (INT)**: | 10     |
+| 👁️ **Sagesse (SAG)**:      | 9      |
+| ✨ **Charisme (CHA)**:     | 5      |
+
+## Aptitudes aventure
+
+- Echos de Cupidité : Krock peut sentir l’or proche et suivre sa direction avec une précision surnaturelle (avantage aux jets de perception liés aux richesses, mais +1 corruption si utilisé pour voler ou cacher un trésor).
+
+- Méditation de Diamant : 1× par repos long, il peut entrer en méditation 10 min pour durcir ou fissurer son corps : il fait avancer ou reculer sa malédiction (choix proposé par le mj selon ses actes récents ?).
+
+- Malédiction de diamant :
+
+```
+La corruption grandit ou recule selon les choix moraux liés à la richesse.
+Chaque point de corruption donne +1 CON mais retire -1 DEX (ou alors -1 Sauvegarde et -1 mouvement ?)
++1 corruption pour : voler, cacher un trésor, négocier pour un bénéfice personnel, admirer trop longtemps un butin.
+-1 corruption pour : faire un don, renoncer publiquement à une richesse, s’appauvrir volontairement, payer plus que nécessaire.
+A 10 corruption : transformation définitive en Golem de Diamant -> à définir ce qui se passe (perte de controle totale du personnage ? Doit être sauvé par ses compagnons ?)
+```
+
+## Fiche combat / Profil
+
+```
+Mouvement: 5"
+Sauvegarde: 5+
+Bravoure: ? (pas compris)
+Blessure: ? (pas compris)
+```
+
+## Objets
+
+- Arme : Ō-Katen no Krock (Énorme Katana ancestral, trop grand pour les humains normaux)
+  largeur de lame incrustée d’un filon d’or qui pulse lorsqu’il cède à la cupidité (visuel)
+
+- Armure : Kimono Cuir Renforcé (armure cuir adaptée à son vœu : simple, sans dorures)
+  Type cuir → sauvegarde 5+
+  Aucun or visible (condition pour éviter corruption passive)
+
+- Accessoire : Bourse-Serment Vide (autour du cou, jamais utilisée pour stocker)
+
+- Tonnelet de bière bénite : Une bière naine bénite par des années de prière. Pouvoir de guérison à déterminer
+
+
+## Aptitudes combat
+
+| Armes/Sorts/Techniques | Portée | Attaques | Effets / Description                               |
+| :--------------------- | :----- | :------- | :------------------------------------------------- |
+| Ō-Katana               | 2"     | 2"       | Inflige 1 blessure, +1 dgt lumière/3 niv corruption ? |
+| Main de Dornir         | 1"     | 1"       | Frappe du diamant de ses poings. Effet percutant pour briser armure et obstacle (impossible si corruption < 3)  |
+| Sens du moine          | 10"    |          | S'immobilise pour entre en transe et ressentir les auras autour de lui (impossible si corruption > 5) |
+
+```
+La corruption oriente les capacités de Krock. Moins il est corrumpu au plus il se rapproche du moine et est habile dans le maniement du sabre. Plus il est corrompu plus il se rapproche du Golem, perd en agilité mais développe des aptitudes liées à la roche.
+```
