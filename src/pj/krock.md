@@ -58,8 +58,7 @@ A 10 corruption : transformation définitive en Golem de Diamant -> à définir 
 ```
 Mouvement: 5"
 Sauvegarde: 5+
-Bravoure: ? (pas compris)
-Blessure: ? (pas compris)
+Blessure: TBD
 ```
 
 ## Objets
