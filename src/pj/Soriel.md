@@ -1,8 +1,6 @@
 # Soriel
 Soriel, la Brûlée
 
-## Nom
-
 Soriel Avenra, dite “la Brûlée”  
 
 Race : Humaine corrompue / Hôte infernale  
