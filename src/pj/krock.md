@@ -1,13 +1,11 @@
-# NOM
-
-Krock
+# Krock
 
 Race : Nain
 Classe : Moine — Voie du Diamant Éveillé
 Alignement : Lawful evil
 Niveau : 1
 
-## Description
+## Prequel
 
 Krock est un nain moine errant au style samuraï, vêtu d’une armure en cuir épais, les poils et les yeux d’un bleu minéral pâle.
 Il manie un katana démesuré qu’il porte dans le dos, plus grand que lui, symbole d’un passé de violence et d’un présent de discipline.
@@ -31,13 +29,13 @@ Chaque trésor convoité l’alourdit un peu plus vers la perte de soi.
 Vous avez 60 points érépartir ( ou on fera lors de la premiere partie un jet d20 pour chaque caractéristique)
 
 | Caractéristique            | Valeur |
-| :------------------------- | :----- |
+|:---------------------------|:-------|
 | 💪 **Force (FOR)**:        | 14     |
 | 🤸 **Dextérité (DEX)**:    | 10     |
 | ❤️ **Constitution (CON)**: | 12     |
 | 🧠 **Intelligence (INT)**: | 10     |
-| 👁️ **Sagesse (SAG)**:      | 9      |
-| ✨ **Charisme (CHA)**:     | 5      |
+| 👁️ **Sagesse (SAG)**:     | 9      |
+| ✨ **Charisme (CHA)**:      | 5      |
 
 ## Aptitudes aventure
 
@@ -80,7 +78,7 @@ Blessure: ? (pas compris)
 ## Aptitudes combat
 
 | Armes/Sorts/Techniques | Portée | Attaques | Effets / Description                                                                                                                                          |
-| :--------------------- | :----- | :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|:-----------------------|:-------|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ō-Katana               | 2"     | 2"       | Inflige 1 blessure, +1 dgt lumière/3 niv corruption ?, repousse la cible de 2"                                                                                |
 | Main de Dornir         | 1"     | 1"       | Frappe du diamant de ses poings. Effet percutant pour briser armure et obstacle (impossible si corruption < 3)                                                |
 | Sens du moine          | 10"    |          | S'immobilise pour entrer en transe et ressentir les auras autour de lui (impossible si corruption > 5). Donne de l'esquive aux alliés dans le rayon d'action. |
