@@ -3,3 +3,4 @@
 - [Chapitre 1 - L'aube des embrouilles](act1/1_chap.md)
 - [Chapitre 2 - Champignons oenologiques](act1/2_chap.md)
 - [Chapitre 3 - Le Rouge d'Emilien](act1/3_chap.md)
+- [Chapitre 4 - Le Cirque des Trois Pics](act1/4_chap.md)
