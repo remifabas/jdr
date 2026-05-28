@@ -43,3 +43,7 @@ Laisse tes joueurs choisir comment gérer la situation :
 À la fin de la rencontre (que les gobelins soient morts, en fuite, ou devenus potes avec les PJ), un pigeon voyageur de la Guilde s'écrase ou un message est trouvé.
 
 On y apprend la grande nouvelle : L'Ambassadeur Gobelin Itzik a été enlevé par trois trolls stupides (tes Trolls du Chapitre 2) et ils fuient vers le Domaine du Seigneur Émilien pour chercher des champignons ! Si le groupe veut sa récompense (ou s'éviter une guerre commerciale), sa prochaine destination est toute trouvée : Le Domaine d'Émilien.
+
+
+
+

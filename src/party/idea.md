@@ -79,3 +79,29 @@ Les Options de Résolution (pour guider tes joueurs) :
     Le Rebondissement Surprise : En pleine discussion ou combat, un pigeon voyageur de la Guilde s'écrase lourdement aux pieds des gobelins (ou de Varda), une petite capsule en fer au cou. Si le groupe lit le message (ou si Griznak le lit en hurlant) : « Alerte générale à la frontière du Domaine ! L'Ambassadeur Itzik a été kidnappé par trois Trolls stupides à cause d'un accident de tabouret ! Le traité est suspendu ! »
 
 Les gobelins regardent alors les PJ, terrifiés : « Les Trolls vont MANGER le boss ! » Le groupe a désormais les barils, une alliance potentielle avec des chevaucheurs de loups, et une destination claire : Le Domaine du Seigneur Émilien, là où les Trolls sont partis chercher des champignons !
+
+
+
+
+Résumé de la partie
+
+Les membres se lèvent se préparent et partent en direction de Mordheim. 
+A l'entrée vive disccusion à propos de soriel, peur de se faire remarqué.
+Rencontre avec Le Chasseur de Rats, Il leur propose de manger son butin avec eux, Soriel accepte les autre non et décident d'aller à l'entrée de la ville.
+Soriel devient amie avec le chasseur de rat.
+
+L’Octroi des Douanes refusent de les laisser passer sans payer, malgrès leur tentative de négociation, Lustina séduit le marteau de L’Octroi des Douanes qui fait maintenant des bruit obscène à chaque fois qu'il la voit.
+Les gardent renvoie ensuite les 3 comparses à l'entrée de la ville, retour avec Soriel et le chasseur de rats.
+
+Barnabé "Le Borgne" passe par là et leur proposent la suite de la quête.
+
+Ils se rendent Aux Trois Pics et résolvent grace à leur chance l'enigme, Krock monter au sommet et fait couleur son sang.
+
+Ils choissisent ensuite la voie du guerrier contre les Gobelins. Le combat est ÉPIQUE ! Snot le Louche par mégarde tire sur Brak le Muet, et le loups pensent qu'ils jouent ensemble. Griznak hurle sur ses compère mais rien n'y fait, il se bat contre Krok. Krok saute de la montagne pour tomber sur Griznak. Pendant ce temps Lustina essaie de récuperer une cargaison mais en déruit une partie elle se retrouve au mileu de la vinassse ! Elara essaie de communiquer avec les loups, ils ne comprennent pas et s'envenimment encore plus ! Soriel elle fait des vas et vient en basculant aux murmure de Khorne et Tzeench, vu de loin c'est un cirque. Finalement Krok se souvient comment utiliser une épée et en un seul coup découpe la tête d'un gobelin et de deux loups ! ( une énorme publicitée pour son talent de forgeron résonne encore dans les trois pics). Griznak lui arrive à fuir avec un bout de la cargaison.
+Le Cerf d'Elara voit une biche pdt la bataille et choisir de la suivre ... malgès la peine que ça engendre pour elara elle tient le coup.
+
+Finalement 3/5 de la cargaison est récupéré, malgrès qu'un peu souiller par les "fuites" de vin chaud de Lustina
+
+Et on ne parleras pas de Varda, les dommages psychologique et emotionnel sont beaucoup trop grand. On raconte encore que l'origine de l'expression avoir perdu les dents de loups pour parler des dents de lait vient de cette époque à Mordheim.
+
+Alors que cette troupe de marginaux rentrent vers Mordheim avec la cargaison, en discutant de quoi faire avec, une pelle enchantée d'une magie démoniaque suit le groupe. ( La pelle est tomber amoureuse de lustina, et va l'aider et la suivre pour le reste de l'aventure)

@@ -39,59 +39,15 @@ Sa légende dit que le verre du prince résonne encore de son rire ivre à chaqu
 
 ## Caractéristiques
 
-
-<span style="color: hotpink">Les maths sont pas bon ! 60 pts max</span>
-
 | Caractéristique            | Valeur |
 |:---------------------------|:-------|
-| 💪 **Force (FOR)**:        | 10 +0  |
-| 🤸 **Dextérité (DEX)**:    | 12 +1  |
-| ❤️ **Constitution (CON)**: | 16 +3  |
-| 🧠 **Intelligence (INT)**: | 11 +0  |
-| 👁️ **Sagesse (SAG)**:     | 8 -1   |
-| ✨ **Charisme (CHA)**:      | 18 +4  |
+| 💪 **Force (FOR)**:        | ?      |
+| 🤸 **Dextérité (DEX)**:    | ?      |
+| ❤️ **Constitution (CON)**: | ?      |
+| 🧠 **Intelligence (INT)**: | ?      |
+| 👁️ **Sagesse (SAG)**:     | ?      |
+| ✨ **Charisme (CHA)**:      | ?      |
 
-## Aptitudes aventure
-
-🎶 Performance (CHA) → Elle charme, chante et fait danser les tavernes.  
-🍷 Persuasion (CHA) → Rien ne résiste à sa chaleur démoniaque.  
-🧠 Arcane / Connaissance des boissons (INT) → Elle sait reconnaître la magie… ou le bon vin.  
-💃 Acrobaties (DEX) → Pour ses danses ivres et ses chutes gracieuses.  
-
-
-## Fiche combat / Profil
-
-
-- Mouvement: <span style="color: hotpink">6'' car tu porte un tonneau</span>
-- Sauvegarde: <span style="color: hotpink">6+, t'as lair d'avoir que du tissue</span>
-- Bravoure: <span style="color: hotpink">6 ( j'ai oublié dexpliqer cette partie plus c'est bas mieux c'est !) comme t'as bcp de - charisme je te met une bonne valeur</span>
-- Blessures: <span style="color: hotpink">5, bcp de pts de vie les démons c'est solide et comme t'as pas bcp de sauvegarde</span>
-
-
-## Objets
-
-<span style="color: hotpink">te faudra un descriptif de quelques objets en combat </span>
-
-| Armes/Sorts/Techniques      | Portée | Attaques | Effets / Description                                                                        |
-|:----------------------------|:-------|:---------|:--------------------------------------------------------------------------------------------|
-| **Aura d’Ivresse (passif)** | /      | /        | Toute créature +2 score de succès jet de touche mais Lustina n'a pas de sauvegarde d'armure |
-| **Baiser Ardent**           | 4"     | 2"       | Régènere 1 blessure à la cible                                                              |
-| **agie du Tonneau**         | 6"     | 1"       | voir règles: Magie du Tonneau                                                               |
-| **Table d’Ivresse(passif)** | /      | /        | voir règles: Table d’Ivresse                                                                |
-
-<span style="color: hotpink">une petite attaque en plus peut être ? ou un truc de support ?</span>
-
-- Magie du Tonneau (1/jour)
-→ Peut transformer n’importe quel liquide en alcool fort. Effets RP ou mécaniques selon la situation :
-
-| Liquide    | Effet                                                        |
-|:-----------|:-------------------------------------------------------------|
-| Eau bénite | vin chaud (+1 attaque pour la prochaine attaque de la cible) |
-| Potion     | rhum (effet inchangé, mais goûté)                            |
-| Soupe      | bière épaisse (-1 score sauvegarde de la cible)              |
-
-- Poésie Incontrôlable (réaction)
-→ Quand Lustina rate un jet, elle déclame un vers inspiré ; un allié proche gagne l’avantage sur son prochain jet.
 
 🍾 Table d’Ivresse (option RP, 1d6 quand elle boit trop)
 

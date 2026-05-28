@@ -37,13 +37,6 @@ Vous avez 60 points érépartir ( ou on fera lors de la premiere partie un jet d
 | 👁️ **Sagesse (SAG)**:     | 9      |
 | ✨ **Charisme (CHA)**:      | 5      |
 
-## Aptitudes aventure
-
-- Echos de Cupidité : Krock peut sentir l’or proche et suivre sa direction avec une précision surnaturelle (avantage aux jets de perception liés aux richesses, mais +1 corruption si utilisé pour voler ou cacher un trésor).
-
-- Méditation de Diamant : 1× par repos long, il peut entrer en méditation 10 min pour durcir ou fissurer son corps: il fait avancer ou reculer sa malédiction (choix proposé par le mj selon ses actes récents ?).
-
-- Malédiction de diamant :
 
 ```
 La corruption grandit ou recule selon les choix moraux liés à la richesse.
@@ -52,35 +45,6 @@ Chaque point de corruption donne +1 CON mais retire -1 DEX (ou alors -1 Sauvegar
 -1 corruption pour : faire un don, renoncer publiquement à une richesse, s’appauvrir volontairement, payer plus que nécessaire.
 A 10 corruption : transformation définitive en Golem de Diamant -> à définir ce qui se passe (perte de controle totale du personnage) -> fonce vers la personne qui a le plus d'or
 ```
-
-## Fiche combat / Profil
-
-```
-Mouvement: 5"
-Sauvegarde: 5+
-Blessure: TBD
-```
-
-## Objets
-
-- Arme : Ō-Katen no Krock (Énorme Katana ancestral, trop grand pour les humains normaux)
-  largeur de lame incrustée d’un filon d’or qui pulse lorsqu’il cède à la cupidité (visuel)
-
-- Armure : Kimono Cuir Renforcé (armure cuir adaptée à son vœu : simple, sans dorures)
-  Type cuir → sauvegarde 5+
-  Aucun or visible (condition pour éviter corruption passive)
-
-- Accessoire : Bourse-Serment Vide (autour du cou, jamais utilisée pour stocker)
-
-- Tonnelet de bière bénite : Une bière naine bénite par des années de prière. Pouvoir de guérison à déterminer
-
-## Aptitudes combat
-
-| Armes/Sorts/Techniques | Portée | Attaques | Effets / Description                                                                                                                                          |
-|:-----------------------|:-------|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ō-Katana               | 2"     | 2"       | Inflige 1 blessure, +1 dgt lumière/3 niv corruption ?, repousse la cible de 2"                                                                                |
-| Main de Dornir         | 1"     | 1"       | Frappe du diamant de ses poings. Effet percutant pour briser armure et obstacle (impossible si corruption < 3)                                                |
-| Sens du moine          | 10"    |          | S'immobilise pour entrer en transe et ressentir les auras autour de lui (impossible si corruption > 5). Donne de l'esquive aux alliés dans le rayon d'action. |
 
 ```
 La corruption oriente les capacités de Krock. Moins il est corrumpu au plus il se rapproche du moine et est habile dans le maniement du sabre. Plus il est corrompu plus il se rapproche du Golem, perd en agilité mais développe des aptitudes liées à la roche.
