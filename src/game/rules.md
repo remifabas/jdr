@@ -73,7 +73,7 @@ Les <span style="color: hotpink">Aptidutes</span>  (ou Compétences) sont des ap
 
     La liste des aptitudes [ici]... soon 
 
-Quand le MJ vous demande un "jet de Discrétion", vous lancez un d20 et vous ajoutez votre bonus de Dextérité.
+Quand le MJ vous demande un "jet de Discrétion", vous lancez un d12 et vous ajoutez votre bonus de Dextérité.
 
 Le Bonus de <span style="color: hotpink">Maîtrise</span>
 
@@ -93,12 +93,12 @@ Imaginons deux personnages qui tentent d'être discrets (jet de Discrétion). Le
 Personnage A : Le Voleur (Niveau 1)
 - Il a 16 <span style="color: red">caractéristique</span> en Dextérité (<span style="color: red">Modificateur</span> +3).
 - Il maîtrise l'<span style="color: hotpink">aptitude</span> "Discrétion". Son Bonus de <span style="color: hotpink">Maîtrise</span> est de +2.
-- Son jet total sera : d20 + 3 (Dextérité) + 2 (Maîtrise) = d20 + 5
+- Son jet total sera : d12 + 3 (Dextérité) + 2 (Maîtrise) = d12 + 5
 
 Personnage B : Le Guerrier (Niveau 1)
 - Il a 12 <span style="color: red">caractéristique</span> en Dextérité (<span style="color: red">Modificateur</span>Bonus +1).
 - Il ne maîtrise pas l'<span style="color: hotpink">aptitude</span>  "Discrétion".
-- Son jet total sera : d20 + 1 (Dextérité) = d20 + 1
+- Son jet total sera : d12 + 1 (Dextérité) = d12 + 1
 
 Le Voleur a beaucoup plus de chances de réussir, car il est à la fois agile (Dextérité) et entraîné (Maîtrise).En résumé:
 
