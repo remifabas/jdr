@@ -20,7 +20,7 @@ Both commands require `mdbook`, `mdbook-admonish`, and `mdbook-catppuccin` on `P
 - `book.toml` — mdBook config. Two preprocessors: `admonish` (callout boxes) and `catppuccin` (theme). Custom CSS in `theme/` + `mdbook-admonish.css` at root. Default light theme `latte`, dark `frappe`.
 - `src/SUMMARY.md` — table of contents. **Every new chapter must be linked here** or mdBook ignores the file.
 - `src/` layout mirrors in-fiction structure, not technical concerns:
-  - `game/` — rules, combat, character creation, alignment
+  - `game/` — rules, character creation, alignment
   - `univers/` — world / setting (Magtherai Isle, Mordheim)
   - `pj/` — player characters (PJ = personnage joueur) + `patron.md` (patron/sponsor mechanic)
   - `pnj/` — non-player characters

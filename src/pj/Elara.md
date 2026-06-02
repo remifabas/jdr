@@ -39,44 +39,4 @@ Elle chevauche **Lyra**, un **cerf géant** majestueux aux bois immenses, qu'ell
 **Pistage Silencieux** : Vous pouvez vous déplacer à travers les terrains naturels sans laisser de traces visibles et avez l'avantage sur les tests de Dextérité (Discrétion) lorsque vous vous déplacez lentement.
 ```
 
-## Fiche combat / Profil
-
-```
-Mouvement: 7'' (6'' de base + 1'' Armure Légère) 
-Sauvegarde: 6+ (Armure Légère) 
-Bravoure: 9 
-Blessures: 4 
-```
-
-## Objets
-
-- **ARME : Couteau Double Lame**
-- **ARMURE : Armure Légère    
-- **Trousse de survie**    <span style="color: hotpink">oui? elle fait quoi ?</span>
-- **Selle et harnais pour Lyra** <span style="color: hotpink">oui? elle fait quoi ?</span>
-
-
-## Aptitudes combat
-
-| Armes/Sorts/Techniques  | Portée | Attaques | Effets / Description           |
-|:------------------------|:-------|:---------|:-------------------------------|
-| **Couteau Double Lame** | 1"     | 2"       | Inflige 1 blessure             |
-| **Écho de Vitesse**     | 1"     | /        | +2" mouvement et +1 Sauvegarde |
-| **Écho de Stase***      | 6"     | /        | Retire 2 action de la cible    |
-
-
-```
-**Écho de Vitesse** : En canalisant l'énergie autour d'elle, Elara gagne +2'' en Mouvement et un avantage sur son prochain jet de Sauvegarde jusqu'à la fin du tour. Peut être utilisé une fois par combat. (Action de Mouvement) 
-
-**Écho de Stase** : Elara projette une vague d'énergie qui entrave la cible. La cible doit réussir un jet de Sagesse ou voir son Mouvement réduit de moitié et ne peut pas effectuer d'action de Charge ou de Courir lors de son prochain tour. (Action, 1 utilisation par combat)
-```
-
-
 ### 🐴 Monture Spéciale : Lyra, le Cerf-Guerrier
-
-La monture est si importante qu'elle devrait avoir des règles spéciales :
-
-| Armes/Sorts/Techniques     | Portée | Attaques | Effets / Description                            |
-|:---------------------------|:-------|:---------|:------------------------------------------------|
-| **Charge Cornue :**        | 1"     | 1"       | Inflige 1 blessure et repousse de 3"            |
-| **Mouvement Silencieux :** | 1"     | /        | Elara et Lyra deviennent inciblable pour 1 tour |

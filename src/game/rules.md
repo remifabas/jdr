@@ -1,9 +1,5 @@
 # Règles principales
 
-Il existe deux type de règles à suivre, celles valable pour l'ensemble de l'aventure, et celles qui régissent le combats.
-
-Dans un premier temps, voyont les premieres:
-
 ## Règles aventure
 
 ~~~admonish tips title="Caractéristiques" collapsible=true

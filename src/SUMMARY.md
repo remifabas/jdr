@@ -3,7 +3,6 @@
 # Le jeu
 
 - [Règles](game/rules.md)
-- [Combats](game/combat.md)
 - [Création personnage](game/create_character.md)
   - [Patron](pj/patron.md)
   - [Alignement](game/alignement.md)
