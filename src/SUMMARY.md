@@ -29,3 +29,6 @@
   - [Chapitre 2](story/act1/2_chap.md)
   - [Chapitre 3](story/act1/3_chap.md)
   - [Chapitre 4](story/act1/4_chap.md)
+  - [Chapitre 5](story/act1/5_chap.md)
+  - [Chapitre 6](story/act1/6_chap.md)
+  - [Chapitre 7](story/act1/7_chap.md)
