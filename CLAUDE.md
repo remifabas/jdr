@@ -20,7 +20,6 @@ Both commands require `mdbook`, `mdbook-admonish`, and `mdbook-catppuccin` on `P
 - `book.toml` — mdBook config. Two preprocessors: `admonish` (callout boxes) and `catppuccin` (theme). Custom CSS in `theme/` + `mdbook-admonish.css` at root. Default light theme `latte`, dark `frappe`.
 - `src/SUMMARY.md` — table of contents. **Every new chapter must be linked here** or mdBook ignores the file.
 - `src/` layout mirrors in-fiction structure, not technical concerns:
-  - `game/` — rules, character creation, alignment
   - `univers/` — world / setting (Magtherai Isle, Mordheim)
   - `pj/` — player characters (PJ = personnage joueur) + `patron.md` (patron/sponsor mechanic)
   - `pnj/` — non-player characters
@@ -30,6 +29,5 @@ Both commands require `mdbook`, `mdbook-admonish`, and `mdbook-catppuccin` on `P
 ## Conventions
 
 - Content is **French**. Match existing tone and vocabulary (PJ, PNJ, patron, alignement, etc.) when editing.
-- Commit prefixes used so far: `feat(story:act-X)`, `feat`, `fix` — keep this style.
 - Story chapters follow the pattern `src/story/actN/M_chap.md` and are referenced from `SUMMARY.md` with the `Chapitre M` label.
 - Run `make build` before committing structural changes so the committed `docs/` stays in sync with `src/`.
