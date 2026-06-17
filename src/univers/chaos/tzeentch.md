@@ -28,7 +28,7 @@ C'est son piège parfait. Il ne vous force à rien. Vous vous forcez vous-même,
 
 ### Le Chercheur Sincère
 
-Commence comme un mage honnête. Peut-être un étudiant aux Collèges Impériaux qui trouve les classes trop lentes, trop restrictives. Puis un rêve arrive — un rêve où un œil cosmique lui montre une formule magique que personne n'a jamais découverte. Juste une petite formule. Rien de dangereux.
+Cela commence comme un mage honnête. Peut-être un étudiant aux Collèges Impériaux qui trouve les classes trop lentes, trop restrictives. Puis un rêve arrive — un rêve où un œil cosmique lui montre une formule magique que personne n'a jamais découverte. Juste une petite formule. Rien de dangereux.
 
 Le rêve revient. Nuit après nuit. Chaque fois, une nouvelle formule. Chaque fois, elle fonctionne mieux que prévu. Bientôt, le chercheur abandonne les Collèges — qui, clairement, ne comprennent rien à la *vraie* magie.
 
@@ -75,7 +75,7 @@ Il ne force jamais personne. Il offre simplement. Et les êtres intelligents, pa
 
 2. **Les Yeux Qui Ne Correspondent Pas:** C'est le plus évident. Le nombre, la couleur, la position — ils ne sont jamais normaux. Et ils regardent dans des directions qui ne semblent pas coordonnées.
 
-3. **L'Aura de Changeance:** La réalité autour d'eux semble légèrement... glitchy. Les couleurs vibrent. Les angles ne sont pas tout à fait droits. C'est subtil, mais visible si vous savez quoi chercher.
+3. **L'Aura de Changeance:** La réalité autour d'eux semble légèrement... perturbée. Les couleurs vibrent. Les angles ne sont pas tout à fait droits. C'est subtil, mais visible si vous savez quoi chercher.
 
 4. **La Parole Entrelacée:** Même un cultiste mineur parle d'une manière qui suggère qu'il pense en plusieurs niveaux de réalité en même temps. Les phrases se chevauchent. Les pronoms se mélangent. Parler à un cultiste de Tzeentch est épuisant mentalement.
 

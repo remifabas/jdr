@@ -28,7 +28,7 @@ C'est abominable.
 
 ### Le Fanatique Ordinaire
 
-Commence comme une personne normale. Atteint par une maladie, puis miraculeusement "guéri" par l'intervention d'un Cultiste. Mais cette guérison est une infection invisible — Nurgle marque maintenant cette personne. Elle commencera à voir les *cadeaux* de Nurgle partout. Les plaies qui cicatrisent rapidement (grâce à la pourriture qui les nettoie). Les infections qui donnent un but nouveau à la vie.
+Cela commence avec une personne normale. Atteint par une maladie, puis miraculeusement "guéri" par l'intervention d'un Cultiste. Mais cette guérison est une infection invisible — Nurgle marque maintenant cette personne. Elle commencera à voir les *cadeaux* de Nurgle partout. Les plaies qui cicatrisent rapidement (grâce à la pourriture qui les nettoie). Les infections qui donnent un but nouveau à la vie.
 
 Graduellement, le cultiste ordinaire devient un porteur volontaire. Il ou elle propagera la maladie, non pas par méchanceté, mais par *amour*. Chaque personne infectée est un nouveau membre de la grande famille de Nurgle.
 

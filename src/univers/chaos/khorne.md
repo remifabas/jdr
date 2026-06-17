@@ -28,7 +28,7 @@ Le problème? Une fois que vous avez goûté à cette puissance, il n'y a rien d
 
 ### Le Guerrier Honorable
 
-Commence souvent comme un chevalier, un mercenaire ou un soldat. Quelqu'un qui aime le combat. Puis un jour, pendant une bataille particulièrement intense, il sentit *quelque chose*. Une présence. Une voix qui n'était pas vraiment une voix, plus comme une sensation — "Tue. Tue plus. Tire du pouvoir de cette fureur."
+Cela commence souvent comme un chevalier, un mercenaire ou un soldat. Quelqu'un qui aime le combat. Puis un jour, pendant une bataille particulièrement intense, il sentit *quelque chose*. Une présence. Une voix qui n'était pas vraiment une voix, plus comme une sensation — "Tue. Tue plus. Tire du pouvoir de cette fureur."
 
 Et il l'a fait. Et ça a *fonctionné*.
 
@@ -48,11 +48,11 @@ Physiquement, les mutations commencent. La peau devient épaisse et résistante.
 
 Et le berserker... *aime* ça.
 
-### Le Daemon du Sang
+### Le Demon du Sang
 
-Pire que le berserker est le Daemon — une créature qui a combattu si longtemps que la ligne entre elle et Khorne himself s'est floue. Certains disent que ce ne sont plus vraiment des humains transformés, mais des manifestations directes de Khorne lui-même, utilisant un cadre humain usé comme un gant.
+Pire que le berserker est le Demon — une créature qui a combattu si longtemps que la ligne entre elle et Khorne lui même s'est floue. Certains disent que ce ne sont plus vraiment des humains transformés, mais des manifestations directes de Khorne lui-même, utilisant un cadre humain usé comme un gant.
 
-Les Daemons du Sang sont pratiquement invincibles au combat. Ils ne fatiguent pas. Ils ne ressentent pas la peur. Leur corps se régénère de blessures qui devraient être fatales. Et chaque coup qu'ils donnent est une violence qui remet en question les lois de la physique elle-même.
+Les Demons du Sang sont pratiquement invincibles au combat. Ils ne fatiguent pas. Ils ne ressentent pas la peur. Leur corps se régénère de blessures qui devraient être fatales. Et chaque coup qu'ils donnent est une violence qui remet en question les lois de la physique elle-même.
 
 Ils ne parlent généralement que par cris et rugissements. Mais il y a une intelligence là — une compréhension terrifiante de chaque mouvement, chaque feinte, chaque ouverture.
 
