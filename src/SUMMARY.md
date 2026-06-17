@@ -9,6 +9,8 @@
 
 - [Chaos](univers/chaos.md)
   - [Nurgle](univers/chaos/nurgle.md)
+  - [Tzeentch](univers/chaos/tzeentch.md)
+  - [Khorne](univers/chaos/khorne.md)
 
 # Personnage
 
