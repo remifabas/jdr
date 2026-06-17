@@ -1,12 +1,5 @@
 # Summary
 
-# Le jeu
-
-- [Règles](game/rules.md)
-- [Création personnage](game/create_character.md)
-  - [Patron](pj/patron.md)
-  - [Alignement](game/alignement.md)
-
 # Univers
 
 - [Magtherai Isle](univers/Magtherai_Isle.md)
