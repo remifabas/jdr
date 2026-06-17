@@ -14,6 +14,8 @@
   - [Soriel](pj/Soriel.md)
 - [Personnage non joueurs](pnj/perso.md)
   - [Verda](pnj/verda.md)
+  - [Trolls](pnj/trolls.md)
+  - [Nains](pnj/nains.md)
 
 # L'Histoire
 
