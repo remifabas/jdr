@@ -1,0 +1,236 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js latte">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Malepierre - jdr-rules</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../././mdbook-admonish.css">
+        <link rel="stylesheet" href="../.././theme/catppuccin.css">
+        <link rel="stylesheet" href="../.././theme/catppuccin-highlight.css">
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "frappe" : "latte";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('latte')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item affix "><li class="part-title">Univers</li><li class="chapter-item "><a href="../../univers/Magtherai_Isle.html"><strong aria-hidden="true">1.</strong> Magtherai Isle</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../univers/Mordheim.html"><strong aria-hidden="true">1.1.</strong> Mordheim</a></li></ol></li><li class="chapter-item "><a href="../../univers/magie/vents-de-magie.html"><strong aria-hidden="true">2.</strong> Vents de magie</a></li><li class="chapter-item expanded "><a href="../../univers/magie/malepierre.html" class="active"><strong aria-hidden="true">3.</strong> Malepierre</a></li><li class="chapter-item "><a href="../../univers/chaos.html"><strong aria-hidden="true">4.</strong> Chaos</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../univers/chaos/nurgle.html"><strong aria-hidden="true">4.1.</strong> Nurgle</a></li></ol></li><li class="chapter-item "><li class="part-title">Personnage</li><li class="chapter-item "><a href="../../pj/perso.html"><strong aria-hidden="true">5.</strong> Héros</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../pj/Lustina.html"><strong aria-hidden="true">5.1.</strong> Lustina</a></li><li class="chapter-item "><a href="../../pj/krock.html"><strong aria-hidden="true">5.2.</strong> Krock</a></li><li class="chapter-item "><a href="../../pj/Elara.html"><strong aria-hidden="true">5.3.</strong> Elara</a></li><li class="chapter-item "><a href="../../pj/Soriel.html"><strong aria-hidden="true">5.4.</strong> Soriel</a></li></ol></li><li class="chapter-item "><a href="../../pnj/perso.html"><strong aria-hidden="true">6.</strong> Personnage non joueurs</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../pnj/verda.html"><strong aria-hidden="true">6.1.</strong> Verda</a></li><li class="chapter-item "><a href="../../pnj/trolls.html"><strong aria-hidden="true">6.2.</strong> Trolls</a></li><li class="chapter-item "><a href="../../pnj/nains.html"><strong aria-hidden="true">6.3.</strong> Nains</a></li></ol></li><li class="chapter-item "><li class="part-title">L'Histoire</li><li class="chapter-item "><a href="../../story/1_act.html"><strong aria-hidden="true">7.</strong> Acte 1</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../story/act1/1_chap.html"><strong aria-hidden="true">7.1.</strong> Chapitre 1</a></li><li class="chapter-item "><a href="../../story/act1/2_chap.html"><strong aria-hidden="true">7.2.</strong> Chapitre 2</a></li><li class="chapter-item "><a href="../../story/act1/3_chap.html"><strong aria-hidden="true">7.3.</strong> Chapitre 3</a></li><li class="chapter-item "><a href="../../story/act1/4_chap.html"><strong aria-hidden="true">7.4.</strong> Chapitre 4</a></li><li class="chapter-item "><a href="../../story/act1/5_chap.html"><strong aria-hidden="true">7.5.</strong> Chapitre 5</a></li><li class="chapter-item "><a href="../../story/act1/6_chap.html"><strong aria-hidden="true">7.6.</strong> Chapitre 6</a></li><li class="chapter-item "><a href="../../story/act1/7_chap.html"><strong aria-hidden="true">7.7.</strong> Chapitre 7</a></li></ol></li><li class="chapter-item "><li class="part-title">Objets</li><li class="chapter-item "><a href="../../game/parchemin_gob.html"><strong aria-hidden="true">8.</strong> Parchemin Gobelin</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="latte">Latte (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="frappe">Frappé</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="macchiato">Macchiato</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mocha">Mocha</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">jdr-rules</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/remifabas/jdr" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="malepierre"><a class="header" href="#malepierre">Malepierre</a></h1>
+<p>La Malepierre n'est pas une pierre ordinaire. C'est une pierre qui <em>sait</em>, ou du moins qui agit comme si elle savait. Probablement qu'elle sait. Les deux options sont terrifiantes.</p>
+<h2 id="origines"><a class="header" href="#origines">Origines</a></h2>
+<p>Avant la Chute, avant les Météorites, avant même que Mordheim soit une ville digne de ce nom, on murmurrait des histoires sur une pierre noire qui surgissait des profondeurs. Les vieux mineurs nains refusaient d'en parler directement — ils faisaient plutôt des signes pour chasser les mauvais esprits, ce qui chez un nain était considéré comme une hystérie.</p>
+<p>Puis les météorites sont tombées.</p>
+<p>Et avec elles, la Malepierre s'est <em>réveillée</em>. </p>
+<p>Non pas surgissant du néant, mais remontant à travers la terre, attirant les autres pierres du Chaos vers elle comme un aimant attire la limaille de fer. Les mineurs qui découvrirent les premiers gisements parlaient tous d'une sensation identique : une présence. Comme si la pierre les <em>observait</em> pendant qu'ils la minaient. Comme si elle avait des opinions. Des nains d'habitude pragmatiques commencèrent à murmurer que la Malepierre était en colère.</p>
+<p>Les mineurs qui continuaient à l'extraire cessaient d'être vraiment des mineurs après quelques semaines. Ils devenaient autre chose.</p>
+<h2 id="propriétés-et-dangers"><a class="header" href="#propriétés-et-dangers">Propriétés et Dangers</a></h2>
+<p>La Malepierre pulse d'une énergie verte et violette, la même que celle qui brûle dans les fractures de la réalité. Elle corrompt tout ce qu'elle touche — non pas graduellement, comme une maladie, mais consciemment, comme si elle <em>choisissait</em> comment transformer ce qui l'approchait.</p>
+<p>Un homme qui touche de la Malepierre pour la première fois sentira une chaleur agréable, séduisante, comme le souvenir d'un rêve qu'on oublie en se réveillant. Il en voudra plus.</p>
+<p>Un homme qui en tient une deuxième fois commencera à changer. Ses muscles gonflent ou rétrécissent. Ses ongles noircissent. Ses yeux voient des couleurs qui n'existent pas. Et il en voudra <em>toujours</em> plus.</p>
+<p>Un homme qui persiste au-delà d'une troisième fois cesse complètement d'être un homme. C'est à ce moment-là qu'il commence réellement à fonctionner.</p>
+<h2 id="utilisation-et-magie"><a class="header" href="#utilisation-et-magie">Utilisation et Magie</a></h2>
+<p>Les mages les plus fous — et ceux-ci sont <strong>très</strong> fous — ont découvert qu'on pouvait <em>canaliser</em> la Malepierre. Pas la dominer. Jamais la dominer. Mais plutôt... négocier avec elle. Faire un marché où vous acceptez de devenir un peu moins vous-même en échange du pouvoir de faire des choses qu'aucun humain ne devrait pouvoir faire.</p>
+<p>Les Sorciers de Chaos qui ont appris à le faire développent une <em>présence</em>. Les animaux les fuient. Les enfants pleurent en les voyant. Et parfois, en regardant dans leurs yeux, on voit que la Malepierre regarde vers <em>vous</em> à travers eux.</p>
+<p>La Malepierre peut servir de catalyseur pour des sorts de Chaos purs — les sorts les plus anciens, les plus dangereux, ceux qui ne sont pas enregistrés dans aucune grimoire respectable (et honnêtement, il n'existe pas de grimoires respectables qui parlent de magie de Chaos. Il existe des grimoires <em>perdus</em>, des grimoires <em>brûlés</em>, et des grimoires <em>mangés par leurs auteurs avant qu'on les arrête</em>).</p>
+<h2 id="folklore-et-superstition"><a class="header" href="#folklore-et-superstition">Folklore et Superstition</a></h2>
+<p>Les marchands qui vendent de la Malepierre prétendent que c'est de la pierre ordinaire teintée par les radiations magiques. Bien sûr, ces marchands portent tous des gants même quand ils dorment.</p>
+<p>Les prêtres disent que c'est du Chaos figé, une anomalie, une cicatrice du monde. Ils ne manquent jamais de suggérer que posséder de la Malepierre va vous envoyer directement en enfer. Probablement honnête, techniquement.</p>
+<p>Les imbéciles pensent qu'on peut &quot;s'adapter&quot; à la Malepierre avec le temps. Ces gens ne sont généralement plus là pour corriger cette théorie.</p>
+<p>Et puis il y a ceux qui <em>savent</em> vraiment : la Malepierre est vivante, à sa façon. Elle grandit. Elle se propage. Et elle attend avec la patience infinie de la pierre — ce qui, pour une pierre, est une patience extrêmement infinie — que le monde autour d'elle soit prêt à être transformé.</p>
+<h2 id="note-pratique-pour-les-aventuriers-insensés"><a class="header" href="#note-pratique-pour-les-aventuriers-insensés">Note Pratique pour les Aventuriers Insensés</a></h2>
+<p>Si vous trouvez de la Malepierre :</p>
+<ul>
+<li>Ne la touchez pas</li>
+<li>Ne la regardez pas trop longtemps</li>
+<li>Ne pensez <em>pas</em> trop à elle</li>
+<li>Si quelqu'un dans votre groupe dit &quot;ça peut pas être si dangereux&quot;, attendez 48 heures</li>
+</ul>
+<p>Vous pouvez nous remercier après.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../univers/magie/vents-de-magie.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../univers/chaos.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../univers/magie/vents-de-magie.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../univers/chaos.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

@@ -4,6 +4,11 @@
 
 - [Magtherai Isle](univers/Magtherai_Isle.md)
   - [Mordheim](univers/Mordheim.md)
+- [Vents de magie](univers/magie/vents-de-magie.md)
+- [Malepierre](univers/magie/malepierre.md)
+
+- [Chaos](univers/chaos.md)
+  - [Nurgle](univers/chaos/nurgle.md)
 
 # Personnage
 
@@ -27,3 +32,7 @@
   - [Chapitre 5](story/act1/5_chap.md)
   - [Chapitre 6](story/act1/6_chap.md)
   - [Chapitre 7](story/act1/7_chap.md)
+
+# Objets
+
+- [Parchemin Gobelin](game/parchemin_gob.md)
