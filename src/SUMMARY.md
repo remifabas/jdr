@@ -19,6 +19,7 @@
   - [Krock](pj/krock.md)
   - [Elara](pj/Elara.md)
   - [Soriel](pj/Soriel.md)
+  - [Constance](pj/Constance.md)
 - [Personnage non joueurs](pnj/perso.md)
   - [Verda](pnj/verda.md)
   - [Trolls](pnj/trolls.md)
