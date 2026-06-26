@@ -33,3 +33,14 @@ Il y a un an, elle a croisé une vieille voyante dans une taverne. Celle-ci lui 
 Depuis, Constance cherche sa voie. Pas celle qu’on lui impose, mais celle qu’elle choisit.
 
 Les dernier échos de Constance sont qu'elle se serait fait remarqué à Mordheim, en même temps dificile de la rater n'est ce pas ?
+
+## Caractéristiques
+
+| Caractéristique            | Valeur |
+|:---------------------------|:-------|
+| 💪 **Force (FOR)**:        | 10     |
+| 🤸 **Dextérité (DEX)**:    | 4      |
+| ❤️ **Constitution (CON)**: | 16     |
+| 🧠 **Intelligence (INT)**: | 6      |
+| 👁️ **Sagesse (SAG)**:     | 6      |
+| ✨ **Charisme (CHA)**:      | 18     |
