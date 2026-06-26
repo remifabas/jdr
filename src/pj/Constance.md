@@ -32,7 +32,7 @@ Il y a un an, elle a croisé une vieille voyante dans une taverne. Celle-ci lui 
 "Ma belle, tes seins ne sont ni une malédiction ni une bénédiction. C’est un miroir. Le monde te voit comme il veut te voir. Toi, tu dois décider qui tu es… avant que les autres ne le fassent à ta place."
 Depuis, Constance cherche sa voie. Pas celle qu’on lui impose, mais celle qu’elle choisit.
 
-Les dernier échos de Constance sont qu'elle se serait fait remarqué à Mordheim, en même temps dificile de la rater n'est ce pas ?
+Les dernier échos de Constance sont qu'elle se serait fait remarquer à Mordheim, en même temps dificile de la rater n'est ce pas ?
 
 ## Caractéristiques
 
