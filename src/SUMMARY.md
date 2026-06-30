@@ -11,6 +11,7 @@
   - [Nurgle](univers/chaos/nurgle.md)
   - [Tzeentch](univers/chaos/tzeentch.md)
   - [Khorne](univers/chaos/khorne.md)
+  - [Slaanesh](univers/chaos/slaanesh.md)
 
 # Personnage
 
