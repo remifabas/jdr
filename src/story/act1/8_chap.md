@@ -2,7 +2,7 @@
 
 La fuite hors des égouts de la section 7 n’obéit à aucune règle tactique connue, mais plutôt à la loi universelle du sauve-qui-peut. L'assassin Skaven aux tympans détruits talonnait le groupe, d'humeur hautement revancharde. Pressés par le temps, nos héros plongèrent dans les trois conduits de lumière.
 
-Lustina prit le boyau de gauche, mais un éboulement immédiat scella l'accès. Krock, le moine nain, s'engouffra au centre, mais sa stature – ou peut-être son exaspération face à la piètre qualité des maçonneries humaines – provoqua un second effondrement. Ne restait que le conduit de droite. Soriel y plongea tête la première, percutant les parois de pierre comme un homme ayant abusé de la boisson, alors même qu’aucune goutte de ce précieux breuvage ne coulait encore dans ses veines. Le Nain y laissa deux points de vie et une bonne part de sa dignité.
+Lustina prit le boyau de gauche, mais un éboulement immédiat scella l'accès. Krock, le moine nain, s'engouffra au centre, mais sa stature – ou peut-être son exaspération face à la piètre qualité des maçonneries humaines – provoqua un second effondrement. Ne restait que le conduit de droite. Soriel y plongea tête la première, percutant les parois de pierre comme un femme ayant abusé de la boisson, alors même qu’aucune goutte de ce précieux breuvage ne coulait encore dans ses veines. ELle y laissa deux points de vie et une bonne part de sa dignité.
 
 ## La Transmutation du Fleuve Morr
 
