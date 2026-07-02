@@ -36,6 +36,7 @@
   - [Chapitre 5](story/act1/5_chap.md)
   - [Chapitre 6](story/act1/6_chap.md)
   - [Chapitre 7](story/act1/7_chap.md)
+  - [Chapitre 8](story/act1/8_chap.md)
 
 # Objets
 

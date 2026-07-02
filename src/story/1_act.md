@@ -7,3 +7,4 @@
 - [Chapitre 5 - Panique et Chants Paillards](act1/5_chap.md)
 - [Chapitre 6 - Le Solstice de la Chope Borgne](act1/6_chap.md)
 - [Chapitre 7 - Le Pacte de la Vase et l'Ombre de Nurgle](act1/7_chap.md)
+- [Chapitre 8 - Bienvenue à Mordheim.](act1/8_chap.md)
